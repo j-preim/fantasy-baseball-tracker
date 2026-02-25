@@ -22,9 +22,9 @@ app.post("/test-cors-post", function (req, res) {
   res.status(200).json({ success: true });
 });
 
-// send the about.html file
-app.get("/about", function (req, res) {
-  res.sendFile(path.join(__dirname, "..", "static", "about.html"));
+// send the draft JSON file
+app.get("/keepers", function (req, res) {
+  res.sendFile(path.join(__dirname, "..", "static", "updated_draft_recap_2009.json"));
 });
 
 app.listen(4000, () => console.log("Server ready on port 4000."));
