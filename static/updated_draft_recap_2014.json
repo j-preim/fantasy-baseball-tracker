@@ -1,0 +1,5404 @@
+[
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 1,
+    "keeper": false,
+    "lineupSlotId": 1,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 1,
+    "owningTeamIds": [
+      4
+    ],
+    "playerId": 30193,
+    "reservedForKeeper": false,
+    "roundId": 1,
+    "roundPickNumber": 1,
+    "teamId": 4,
+    "tradeLocked": false,
+    "fullName": "Freddie Freeman"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 2,
+    "keeper": false,
+    "lineupSlotId": 14,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 2,
+    "owningTeamIds": [
+      5
+    ],
+    "playerId": 6341,
+    "reservedForKeeper": false,
+    "roundId": 1,
+    "roundPickNumber": 2,
+    "teamId": 5,
+    "tradeLocked": false,
+    "fullName": "Justin Verlander"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 3,
+    "keeper": true,
+    "lineupSlotId": 4,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 3,
+    "owningTeamIds": [
+      2
+    ],
+    "playerId": 6195,
+    "reservedForKeeper": false,
+    "roundId": 1,
+    "roundPickNumber": 3,
+    "teamId": 2,
+    "tradeLocked": false,
+    "fullName": "Hanley Ramirez"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 4,
+    "keeper": true,
+    "lineupSlotId": 5,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": -1,
+    "overallPickNumber": 4,
+    "owningTeamIds": [
+      7
+    ],
+    "playerId": 28721,
+    "reservedForKeeper": false,
+    "roundId": 1,
+    "roundPickNumber": 4,
+    "teamId": 7,
+    "tradeLocked": false,
+    "fullName": "Ryan Braun"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 5,
+    "keeper": true,
+    "lineupSlotId": 1,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 5,
+    "owningTeamIds": [
+      9
+    ],
+    "playerId": 5915,
+    "reservedForKeeper": false,
+    "roundId": 1,
+    "roundPickNumber": 5,
+    "teamId": 9,
+    "tradeLocked": false,
+    "fullName": "Prince Fielder"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 6,
+    "keeper": true,
+    "lineupSlotId": 3,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 6,
+    "owningTeamIds": [
+      8
+    ],
+    "playerId": 6035,
+    "reservedForKeeper": false,
+    "roundId": 1,
+    "roundPickNumber": 6,
+    "teamId": 8,
+    "tradeLocked": false,
+    "fullName": "David Wright"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 7,
+    "keeper": true,
+    "lineupSlotId": 5,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 7,
+    "owningTeamIds": [
+      1
+    ],
+    "playerId": 28637,
+    "reservedForKeeper": false,
+    "roundId": 1,
+    "roundPickNumber": 7,
+    "teamId": 1,
+    "tradeLocked": false,
+    "fullName": "Jacoby Ellsbury"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 8,
+    "keeper": false,
+    "lineupSlotId": 5,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 8,
+    "owningTeamIds": [
+      3
+    ],
+    "playerId": 6205,
+    "reservedForKeeper": false,
+    "roundId": 1,
+    "roundPickNumber": 8,
+    "teamId": 3,
+    "tradeLocked": false,
+    "fullName": "Shin-Soo Choo"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 9,
+    "keeper": true,
+    "lineupSlotId": 14,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": -1,
+    "overallPickNumber": 9,
+    "owningTeamIds": [
+      10
+    ],
+    "playerId": 5353,
+    "reservedForKeeper": false,
+    "roundId": 1,
+    "roundPickNumber": 9,
+    "teamId": 10,
+    "tradeLocked": false,
+    "fullName": "Cliff Lee"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 10,
+    "keeper": true,
+    "lineupSlotId": 4,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 10,
+    "owningTeamIds": [
+      6
+    ],
+    "playerId": 5411,
+    "reservedForKeeper": false,
+    "roundId": 1,
+    "roundPickNumber": 10,
+    "teamId": 6,
+    "tradeLocked": false,
+    "fullName": "Jose Reyes"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 11,
+    "keeper": true,
+    "lineupSlotId": 2,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 11,
+    "owningTeamIds": [
+      6
+    ],
+    "playerId": 31007,
+    "reservedForKeeper": false,
+    "roundId": 2,
+    "roundPickNumber": 1,
+    "teamId": 6,
+    "tradeLocked": false,
+    "fullName": "Jason Kipnis"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 12,
+    "keeper": true,
+    "lineupSlotId": 0,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": -1,
+    "overallPickNumber": 12,
+    "owningTeamIds": [
+      10
+    ],
+    "playerId": 5986,
+    "reservedForKeeper": false,
+    "roundId": 2,
+    "roundPickNumber": 2,
+    "teamId": 10,
+    "tradeLocked": false,
+    "fullName": "Yadier Molina"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 13,
+    "keeper": true,
+    "lineupSlotId": 3,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": -1,
+    "overallPickNumber": 13,
+    "owningTeamIds": [
+      3
+    ],
+    "playerId": 5544,
+    "reservedForKeeper": false,
+    "roundId": 2,
+    "roundPickNumber": 3,
+    "teamId": 3,
+    "tradeLocked": false,
+    "fullName": "Miguel Cabrera"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 14,
+    "keeper": false,
+    "lineupSlotId": 2,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 14,
+    "owningTeamIds": [
+      1
+    ],
+    "playerId": 6197,
+    "reservedForKeeper": false,
+    "roundId": 2,
+    "roundPickNumber": 4,
+    "teamId": 1,
+    "tradeLocked": false,
+    "fullName": "Ian Kinsler"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 15,
+    "keeper": false,
+    "lineupSlotId": 5,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 15,
+    "owningTeamIds": [
+      8
+    ],
+    "playerId": 28954,
+    "reservedForKeeper": false,
+    "roundId": 2,
+    "roundPickNumber": 5,
+    "teamId": 8,
+    "tradeLocked": false,
+    "fullName": "Jay Bruce"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 16,
+    "keeper": true,
+    "lineupSlotId": 14,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 16,
+    "owningTeamIds": [
+      9
+    ],
+    "playerId": 6194,
+    "reservedForKeeper": false,
+    "roundId": 2,
+    "roundPickNumber": 6,
+    "teamId": 9,
+    "tradeLocked": false,
+    "fullName": "Felix Hernandez"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 17,
+    "keeper": false,
+    "lineupSlotId": 14,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": -1,
+    "overallPickNumber": 17,
+    "owningTeamIds": [
+      7
+    ],
+    "playerId": 30948,
+    "reservedForKeeper": false,
+    "roundId": 2,
+    "roundPickNumber": 7,
+    "teamId": 7,
+    "tradeLocked": false,
+    "fullName": "Chris Sale"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 18,
+    "keeper": true,
+    "lineupSlotId": 15,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 18,
+    "owningTeamIds": [
+      2
+    ],
+    "playerId": 30653,
+    "reservedForKeeper": false,
+    "roundId": 2,
+    "roundPickNumber": 8,
+    "teamId": 2,
+    "tradeLocked": false,
+    "fullName": "Craig Kimbrel"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 19,
+    "keeper": true,
+    "lineupSlotId": 2,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 19,
+    "owningTeamIds": [
+      5
+    ],
+    "playerId": 5031,
+    "reservedForKeeper": false,
+    "roundId": 2,
+    "roundPickNumber": 9,
+    "teamId": 5,
+    "tradeLocked": false,
+    "fullName": "Brandon Phillips"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 20,
+    "keeper": false,
+    "lineupSlotId": 5,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 20,
+    "owningTeamIds": [
+      4
+    ],
+    "playerId": 28841,
+    "reservedForKeeper": false,
+    "roundId": 2,
+    "roundPickNumber": 10,
+    "teamId": 4,
+    "tradeLocked": false,
+    "fullName": "Justin Upton"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 21,
+    "keeper": true,
+    "lineupSlotId": 3,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 21,
+    "owningTeamIds": [
+      4
+    ],
+    "playerId": 28639,
+    "reservedForKeeper": false,
+    "roundId": 3,
+    "roundPickNumber": 1,
+    "teamId": 4,
+    "tradeLocked": false,
+    "fullName": "Evan Longoria"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 22,
+    "keeper": true,
+    "lineupSlotId": 3,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 22,
+    "owningTeamIds": [
+      5
+    ],
+    "playerId": 29212,
+    "reservedForKeeper": false,
+    "roundId": 3,
+    "roundPickNumber": 2,
+    "teamId": 5,
+    "tradeLocked": false,
+    "fullName": "Pablo Sandoval"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 23,
+    "keeper": true,
+    "lineupSlotId": 1,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 23,
+    "owningTeamIds": [
+      2
+    ],
+    "playerId": 28670,
+    "reservedForKeeper": false,
+    "roundId": 3,
+    "roundPickNumber": 3,
+    "teamId": 2,
+    "tradeLocked": false,
+    "fullName": "Joey Votto"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 24,
+    "keeper": true,
+    "lineupSlotId": 14,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": -1,
+    "overallPickNumber": 24,
+    "owningTeamIds": [
+      7
+    ],
+    "playerId": 30373,
+    "reservedForKeeper": false,
+    "roundId": 3,
+    "roundPickNumber": 4,
+    "teamId": 7,
+    "tradeLocked": false,
+    "fullName": "Stephen Strasburg"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 25,
+    "keeper": false,
+    "lineupSlotId": 5,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 25,
+    "owningTeamIds": [
+      9
+    ],
+    "playerId": 28476,
+    "reservedForKeeper": false,
+    "roundId": 3,
+    "roundPickNumber": 5,
+    "teamId": 9,
+    "tradeLocked": false,
+    "fullName": "Matt Kemp"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 26,
+    "keeper": false,
+    "lineupSlotId": 5,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": -1,
+    "overallPickNumber": 26,
+    "owningTeamIds": [
+      8
+    ],
+    "playerId": 30830,
+    "reservedForKeeper": false,
+    "roundId": 3,
+    "roundPickNumber": 6,
+    "teamId": 8,
+    "tradeLocked": false,
+    "fullName": "Starling Marte"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 27,
+    "keeper": true,
+    "lineupSlotId": 4,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 27,
+    "owningTeamIds": [
+      1
+    ],
+    "playerId": 28567,
+    "reservedForKeeper": false,
+    "roundId": 3,
+    "roundPickNumber": 7,
+    "teamId": 1,
+    "tradeLocked": false,
+    "fullName": "Troy Tulowitzki"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 28,
+    "keeper": false,
+    "lineupSlotId": 4,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 28,
+    "owningTeamIds": [
+      3
+    ],
+    "playerId": 29515,
+    "reservedForKeeper": false,
+    "roundId": 3,
+    "roundPickNumber": 8,
+    "teamId": 3,
+    "tradeLocked": false,
+    "fullName": "Elvis Andrus"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 29,
+    "keeper": false,
+    "lineupSlotId": 3,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": -1,
+    "overallPickNumber": 29,
+    "owningTeamIds": [
+      10
+    ],
+    "playerId": 3853,
+    "reservedForKeeper": false,
+    "roundId": 3,
+    "roundPickNumber": 9,
+    "teamId": 10,
+    "tradeLocked": false,
+    "fullName": "Aramis Ramirez"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 30,
+    "keeper": true,
+    "lineupSlotId": 1,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": -1,
+    "overallPickNumber": 30,
+    "owningTeamIds": [
+      6
+    ],
+    "playerId": 5405,
+    "reservedForKeeper": false,
+    "roundId": 3,
+    "roundPickNumber": 10,
+    "teamId": 6,
+    "tradeLocked": false,
+    "fullName": "Adrian Gonzalez"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 31,
+    "keeper": false,
+    "lineupSlotId": 7,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 31,
+    "owningTeamIds": [
+      6
+    ],
+    "playerId": 4574,
+    "reservedForKeeper": false,
+    "roundId": 4,
+    "roundPickNumber": 1,
+    "teamId": 6,
+    "tradeLocked": false,
+    "fullName": "Albert Pujols"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 32,
+    "keeper": false,
+    "lineupSlotId": 5,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 32,
+    "owningTeamIds": [
+      10
+    ],
+    "playerId": 31042,
+    "reservedForKeeper": false,
+    "roundId": 4,
+    "roundPickNumber": 2,
+    "teamId": 10,
+    "tradeLocked": false,
+    "fullName": "Billy Hamilton"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 33,
+    "keeper": false,
+    "lineupSlotId": 14,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 33,
+    "owningTeamIds": [
+      3
+    ],
+    "playerId": 6472,
+    "reservedForKeeper": false,
+    "roundId": 4,
+    "roundPickNumber": 3,
+    "teamId": 3,
+    "tradeLocked": false,
+    "fullName": "Anibal Sanchez"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 34,
+    "keeper": true,
+    "lineupSlotId": 6,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 34,
+    "owningTeamIds": [
+      1
+    ],
+    "playerId": 6393,
+    "reservedForKeeper": false,
+    "roundId": 4,
+    "roundPickNumber": 4,
+    "teamId": 1,
+    "tradeLocked": false,
+    "fullName": "Dustin Pedroia"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 35,
+    "keeper": true,
+    "lineupSlotId": 0,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 35,
+    "owningTeamIds": [
+      8
+    ],
+    "playerId": 30280,
+    "reservedForKeeper": false,
+    "roundId": 4,
+    "roundPickNumber": 5,
+    "teamId": 8,
+    "tradeLocked": false,
+    "fullName": "Carlos Santana"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 36,
+    "keeper": true,
+    "lineupSlotId": 0,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 36,
+    "owningTeamIds": [
+      9
+    ],
+    "playerId": 5378,
+    "reservedForKeeper": false,
+    "roundId": 4,
+    "roundPickNumber": 6,
+    "teamId": 9,
+    "tradeLocked": false,
+    "fullName": "Joe Mauer"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 37,
+    "keeper": true,
+    "lineupSlotId": 13,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": -1,
+    "overallPickNumber": 37,
+    "owningTeamIds": [
+      7
+    ],
+    "playerId": 5403,
+    "reservedForKeeper": false,
+    "roundId": 4,
+    "roundPickNumber": 7,
+    "teamId": 7,
+    "tradeLocked": false,
+    "fullName": "Adam Wainwright"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 38,
+    "keeper": false,
+    "lineupSlotId": 5,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": -1,
+    "overallPickNumber": 38,
+    "owningTeamIds": [
+      2
+    ],
+    "playerId": 28687,
+    "reservedForKeeper": false,
+    "roundId": 4,
+    "roundPickNumber": 8,
+    "teamId": 2,
+    "tradeLocked": false,
+    "fullName": "Hunter Pence"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 39,
+    "keeper": false,
+    "lineupSlotId": 5,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 39,
+    "owningTeamIds": [
+      5
+    ],
+    "playerId": 5940,
+    "reservedForKeeper": false,
+    "roundId": 4,
+    "roundPickNumber": 9,
+    "teamId": 5,
+    "tradeLocked": false,
+    "fullName": "Matt Holliday"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 40,
+    "keeper": true,
+    "lineupSlotId": 2,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 40,
+    "owningTeamIds": [
+      4
+    ],
+    "playerId": 6204,
+    "reservedForKeeper": false,
+    "roundId": 4,
+    "roundPickNumber": 10,
+    "teamId": 4,
+    "tradeLocked": false,
+    "fullName": "Robinson Cano"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 41,
+    "keeper": false,
+    "lineupSlotId": 7,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 41,
+    "owningTeamIds": [
+      4
+    ],
+    "playerId": 31097,
+    "reservedForKeeper": false,
+    "roundId": 5,
+    "roundPickNumber": 1,
+    "teamId": 4,
+    "tradeLocked": false,
+    "fullName": "Manny Machado"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 42,
+    "keeper": false,
+    "lineupSlotId": 7,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 42,
+    "owningTeamIds": [
+      5
+    ],
+    "playerId": 6389,
+    "reservedForKeeper": false,
+    "roundId": 5,
+    "roundPickNumber": 2,
+    "teamId": 5,
+    "tradeLocked": false,
+    "fullName": "Ryan Zimmerman"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 43,
+    "keeper": false,
+    "lineupSlotId": 14,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 43,
+    "owningTeamIds": [
+      2
+    ],
+    "playerId": 33150,
+    "reservedForKeeper": false,
+    "roundId": 5,
+    "roundPickNumber": 3,
+    "teamId": 2,
+    "tradeLocked": false,
+    "fullName": "Masahiro Tanaka"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 44,
+    "keeper": false,
+    "lineupSlotId": 4,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 44,
+    "owningTeamIds": [
+      7
+    ],
+    "playerId": 31037,
+    "reservedForKeeper": false,
+    "roundId": 5,
+    "roundPickNumber": 4,
+    "teamId": 7,
+    "tradeLocked": false,
+    "fullName": "Jean Segura"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 45,
+    "keeper": true,
+    "lineupSlotId": 5,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 45,
+    "owningTeamIds": [
+      9
+    ],
+    "playerId": 28513,
+    "reservedForKeeper": false,
+    "roundId": 5,
+    "roundPickNumber": 5,
+    "teamId": 9,
+    "tradeLocked": false,
+    "fullName": "Adam Jones"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 46,
+    "keeper": false,
+    "lineupSlotId": 2,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 46,
+    "owningTeamIds": [
+      8
+    ],
+    "playerId": 31662,
+    "reservedForKeeper": false,
+    "roundId": 5,
+    "roundPickNumber": 6,
+    "teamId": 8,
+    "tradeLocked": false,
+    "fullName": "Jose Altuve"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 47,
+    "keeper": false,
+    "lineupSlotId": 1,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 47,
+    "owningTeamIds": [
+      1
+    ],
+    "playerId": 30782,
+    "reservedForKeeper": false,
+    "roundId": 5,
+    "roundPickNumber": 7,
+    "teamId": 1,
+    "tradeLocked": false,
+    "fullName": "Anthony Rizzo"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 48,
+    "keeper": false,
+    "lineupSlotId": 2,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 48,
+    "owningTeamIds": [
+      3
+    ],
+    "playerId": 6190,
+    "reservedForKeeper": false,
+    "roundId": 5,
+    "roundPickNumber": 8,
+    "teamId": 3,
+    "tradeLocked": false,
+    "fullName": "Aaron Hill"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 49,
+    "keeper": false,
+    "lineupSlotId": 4,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 49,
+    "owningTeamIds": [
+      10
+    ],
+    "playerId": 30155,
+    "reservedForKeeper": false,
+    "roundId": 5,
+    "roundPickNumber": 9,
+    "teamId": 10,
+    "tradeLocked": false,
+    "fullName": "Everth Cabrera"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 50,
+    "keeper": true,
+    "lineupSlotId": 6,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 50,
+    "owningTeamIds": [
+      6
+    ],
+    "playerId": 28536,
+    "reservedForKeeper": false,
+    "roundId": 5,
+    "roundPickNumber": 10,
+    "teamId": 6,
+    "tradeLocked": false,
+    "fullName": "Ben Zobrist"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 51,
+    "keeper": false,
+    "lineupSlotId": 3,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 51,
+    "owningTeamIds": [
+      6
+    ],
+    "playerId": 29962,
+    "reservedForKeeper": false,
+    "roundId": 6,
+    "roundPickNumber": 1,
+    "teamId": 6,
+    "tradeLocked": false,
+    "fullName": "Pedro Alvarez"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 52,
+    "keeper": false,
+    "lineupSlotId": 14,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 52,
+    "owningTeamIds": [
+      10
+    ],
+    "playerId": 32582,
+    "reservedForKeeper": false,
+    "roundId": 6,
+    "roundPickNumber": 2,
+    "teamId": 10,
+    "tradeLocked": false,
+    "fullName": "Hyun-Jin Ryu"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 53,
+    "keeper": false,
+    "lineupSlotId": 15,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 53,
+    "owningTeamIds": [
+      3
+    ],
+    "playerId": 29630,
+    "reservedForKeeper": false,
+    "roundId": 6,
+    "roundPickNumber": 3,
+    "teamId": 3,
+    "tradeLocked": false,
+    "fullName": "Kenley Jansen"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 54,
+    "keeper": true,
+    "lineupSlotId": 5,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 54,
+    "owningTeamIds": [
+      1
+    ],
+    "playerId": 5880,
+    "reservedForKeeper": false,
+    "roundId": 6,
+    "roundPickNumber": 4,
+    "teamId": 1,
+    "tradeLocked": false,
+    "fullName": "Alex Rios"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 55,
+    "keeper": false,
+    "lineupSlotId": 4,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 55,
+    "owningTeamIds": [
+      8
+    ],
+    "playerId": 30450,
+    "reservedForKeeper": false,
+    "roundId": 6,
+    "roundPickNumber": 5,
+    "teamId": 8,
+    "tradeLocked": false,
+    "fullName": "Starlin Castro"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 56,
+    "keeper": false,
+    "lineupSlotId": 5,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 56,
+    "owningTeamIds": [
+      9
+    ],
+    "playerId": 29551,
+    "reservedForKeeper": false,
+    "roundId": 6,
+    "roundPickNumber": 6,
+    "teamId": 9,
+    "tradeLocked": false,
+    "fullName": "Jason Heyward"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 57,
+    "keeper": true,
+    "lineupSlotId": 5,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 57,
+    "owningTeamIds": [
+      7
+    ],
+    "playerId": 28701,
+    "reservedForKeeper": false,
+    "roundId": 6,
+    "roundPickNumber": 7,
+    "teamId": 7,
+    "tradeLocked": false,
+    "fullName": "Andrew McCutchen"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 58,
+    "keeper": false,
+    "lineupSlotId": 5,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": -1,
+    "overallPickNumber": 58,
+    "owningTeamIds": [
+      2
+    ],
+    "playerId": 4604,
+    "reservedForKeeper": false,
+    "roundId": 6,
+    "roundPickNumber": 8,
+    "teamId": 2,
+    "tradeLocked": false,
+    "fullName": "Michael Cuddyer"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 59,
+    "keeper": false,
+    "lineupSlotId": 1,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 59,
+    "owningTeamIds": [
+      5
+    ],
+    "playerId": 28444,
+    "reservedForKeeper": false,
+    "roundId": 6,
+    "roundPickNumber": 9,
+    "teamId": 5,
+    "tradeLocked": false,
+    "fullName": "Mike Napoli"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 60,
+    "keeper": false,
+    "lineupSlotId": 15,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 60,
+    "owningTeamIds": [
+      4
+    ],
+    "playerId": 30945,
+    "reservedForKeeper": false,
+    "roundId": 6,
+    "roundPickNumber": 10,
+    "teamId": 4,
+    "tradeLocked": false,
+    "fullName": "Greg Holland"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 61,
+    "keeper": false,
+    "lineupSlotId": 15,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 61,
+    "owningTeamIds": [
+      4
+    ],
+    "playerId": 31945,
+    "reservedForKeeper": false,
+    "roundId": 7,
+    "roundPickNumber": 1,
+    "teamId": 4,
+    "tradeLocked": false,
+    "fullName": "Trevor Rosenthal"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 62,
+    "keeper": false,
+    "lineupSlotId": 0,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 62,
+    "owningTeamIds": [
+      5
+    ],
+    "playerId": 30197,
+    "reservedForKeeper": false,
+    "roundId": 7,
+    "roundPickNumber": 2,
+    "teamId": 5,
+    "tradeLocked": false,
+    "fullName": "Wilin Rosario"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 63,
+    "keeper": false,
+    "lineupSlotId": 3,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 63,
+    "owningTeamIds": [
+      2
+    ],
+    "playerId": 30819,
+    "reservedForKeeper": false,
+    "roundId": 7,
+    "roundPickNumber": 3,
+    "teamId": 2,
+    "tradeLocked": false,
+    "fullName": "Kyle Seager"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 64,
+    "keeper": false,
+    "lineupSlotId": 5,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 64,
+    "owningTeamIds": [
+      7
+    ],
+    "playerId": 30493,
+    "reservedForKeeper": false,
+    "roundId": 7,
+    "roundPickNumber": 4,
+    "teamId": 7,
+    "tradeLocked": false,
+    "fullName": "Desmond Jennings"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 65,
+    "keeper": false,
+    "lineupSlotId": 3,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 65,
+    "owningTeamIds": [
+      9
+    ],
+    "playerId": 30644,
+    "reservedForKeeper": false,
+    "roundId": 7,
+    "roundPickNumber": 5,
+    "teamId": 9,
+    "tradeLocked": false,
+    "fullName": "Brett Lawrie"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 66,
+    "keeper": false,
+    "lineupSlotId": 5,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 66,
+    "owningTeamIds": [
+      8
+    ],
+    "playerId": 31478,
+    "reservedForKeeper": false,
+    "roundId": 7,
+    "roundPickNumber": 6,
+    "teamId": 8,
+    "tradeLocked": false,
+    "fullName": "Khris Davis"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 67,
+    "keeper": false,
+    "lineupSlotId": 5,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 67,
+    "owningTeamIds": [
+      1
+    ],
+    "playerId": 4262,
+    "reservedForKeeper": false,
+    "roundId": 7,
+    "roundPickNumber": 7,
+    "teamId": 1,
+    "tradeLocked": false,
+    "fullName": "Jayson Werth"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 68,
+    "keeper": false,
+    "lineupSlotId": 14,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 68,
+    "owningTeamIds": [
+      3
+    ],
+    "playerId": 5883,
+    "reservedForKeeper": false,
+    "roundId": 7,
+    "roundPickNumber": 8,
+    "teamId": 3,
+    "tradeLocked": false,
+    "fullName": "Zack Greinke"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 69,
+    "keeper": true,
+    "lineupSlotId": 5,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 69,
+    "owningTeamIds": [
+      10
+    ],
+    "playerId": 28762,
+    "reservedForKeeper": false,
+    "roundId": 7,
+    "roundPickNumber": 9,
+    "teamId": 10,
+    "tradeLocked": false,
+    "fullName": "Carlos Gomez"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 70,
+    "keeper": false,
+    "lineupSlotId": 5,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 70,
+    "owningTeamIds": [
+      6
+    ],
+    "playerId": 28636,
+    "reservedForKeeper": false,
+    "roundId": 7,
+    "roundPickNumber": 10,
+    "teamId": 6,
+    "tradeLocked": false,
+    "fullName": "Alex Gordon"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 71,
+    "keeper": false,
+    "lineupSlotId": 5,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 71,
+    "owningTeamIds": [
+      6
+    ],
+    "playerId": 29224,
+    "reservedForKeeper": false,
+    "roundId": 8,
+    "roundPickNumber": 1,
+    "teamId": 6,
+    "tradeLocked": false,
+    "fullName": "Will Venable"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 72,
+    "keeper": false,
+    "lineupSlotId": 13,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 72,
+    "owningTeamIds": [
+      10
+    ],
+    "playerId": 30196,
+    "reservedForKeeper": false,
+    "roundId": 8,
+    "roundPickNumber": 2,
+    "teamId": 10,
+    "tradeLocked": false,
+    "fullName": "Mat Latos"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 73,
+    "keeper": false,
+    "lineupSlotId": 1,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 73,
+    "owningTeamIds": [
+      3
+    ],
+    "playerId": 33095,
+    "reservedForKeeper": false,
+    "roundId": 8,
+    "roundPickNumber": 3,
+    "teamId": 3,
+    "tradeLocked": false,
+    "fullName": "Jose Abreu"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 74,
+    "keeper": false,
+    "lineupSlotId": 0,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 74,
+    "owningTeamIds": [
+      1
+    ],
+    "playerId": 30456,
+    "reservedForKeeper": false,
+    "roundId": 8,
+    "roundPickNumber": 4,
+    "teamId": 1,
+    "tradeLocked": false,
+    "fullName": "Jonathan Lucroy"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 75,
+    "keeper": false,
+    "lineupSlotId": 1,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 75,
+    "owningTeamIds": [
+      8
+    ],
+    "playerId": 31359,
+    "reservedForKeeper": false,
+    "roundId": 8,
+    "roundPickNumber": 5,
+    "teamId": 8,
+    "tradeLocked": false,
+    "fullName": "Matt Adams"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 76,
+    "keeper": true,
+    "lineupSlotId": 14,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 76,
+    "owningTeamIds": [
+      9
+    ],
+    "playerId": 28963,
+    "reservedForKeeper": false,
+    "roundId": 8,
+    "roundPickNumber": 6,
+    "teamId": 9,
+    "tradeLocked": false,
+    "fullName": "Clayton Kershaw"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 77,
+    "keeper": false,
+    "lineupSlotId": 12,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 77,
+    "owningTeamIds": [
+      7
+    ],
+    "playerId": 6396,
+    "reservedForKeeper": false,
+    "roundId": 8,
+    "roundPickNumber": 7,
+    "teamId": 7,
+    "tradeLocked": false,
+    "fullName": "Billy Butler"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 78,
+    "keeper": false,
+    "lineupSlotId": 5,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 78,
+    "owningTeamIds": [
+      2
+    ],
+    "playerId": 29673,
+    "reservedForKeeper": false,
+    "roundId": 8,
+    "roundPickNumber": 8,
+    "teamId": 2,
+    "tradeLocked": false,
+    "fullName": "Domonic Brown"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 79,
+    "keeper": false,
+    "lineupSlotId": 14,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 79,
+    "owningTeamIds": [
+      5
+    ],
+    "playerId": 28962,
+    "reservedForKeeper": false,
+    "roundId": 8,
+    "roundPickNumber": 9,
+    "teamId": 5,
+    "tradeLocked": false,
+    "fullName": "Gio Gonzalez"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 80,
+    "keeper": false,
+    "lineupSlotId": 12,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 80,
+    "owningTeamIds": [
+      4
+    ],
+    "playerId": 31606,
+    "reservedForKeeper": false,
+    "roundId": 8,
+    "roundPickNumber": 10,
+    "teamId": 4,
+    "tradeLocked": false,
+    "fullName": "Xander Bogaerts"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 81,
+    "keeper": true,
+    "lineupSlotId": 14,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 81,
+    "owningTeamIds": [
+      4
+    ],
+    "playerId": 28958,
+    "reservedForKeeper": false,
+    "roundId": 9,
+    "roundPickNumber": 1,
+    "teamId": 4,
+    "tradeLocked": false,
+    "fullName": "David Price"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 82,
+    "keeper": true,
+    "lineupSlotId": 13,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 82,
+    "owningTeamIds": [
+      5
+    ],
+    "playerId": 29166,
+    "reservedForKeeper": false,
+    "roundId": 9,
+    "roundPickNumber": 2,
+    "teamId": 5,
+    "tradeLocked": false,
+    "fullName": "Jeff Samardzija"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 83,
+    "keeper": true,
+    "lineupSlotId": 14,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 83,
+    "owningTeamIds": [
+      2
+    ],
+    "playerId": 29949,
+    "reservedForKeeper": false,
+    "roundId": 9,
+    "roundPickNumber": 3,
+    "teamId": 2,
+    "tradeLocked": false,
+    "fullName": "Madison Bumgarner"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 84,
+    "keeper": true,
+    "lineupSlotId": 5,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 84,
+    "owningTeamIds": [
+      7
+    ],
+    "playerId": 28658,
+    "reservedForKeeper": false,
+    "roundId": 9,
+    "roundPickNumber": 4,
+    "teamId": 7,
+    "tradeLocked": false,
+    "fullName": "Carlos Gonzalez"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 85,
+    "keeper": false,
+    "lineupSlotId": 4,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 85,
+    "owningTeamIds": [
+      9
+    ],
+    "playerId": 5908,
+    "reservedForKeeper": false,
+    "roundId": 9,
+    "roundPickNumber": 5,
+    "teamId": 9,
+    "tradeLocked": false,
+    "fullName": "J.J. Hardy"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 86,
+    "keeper": false,
+    "lineupSlotId": 5,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 86,
+    "owningTeamIds": [
+      8
+    ],
+    "playerId": 3971,
+    "reservedForKeeper": false,
+    "roundId": 9,
+    "roundPickNumber": 6,
+    "teamId": 8,
+    "tradeLocked": false,
+    "fullName": "Carlos Beltran"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 87,
+    "keeper": false,
+    "lineupSlotId": 3,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 87,
+    "owningTeamIds": [
+      1
+    ],
+    "playerId": 28809,
+    "reservedForKeeper": false,
+    "roundId": 9,
+    "roundPickNumber": 7,
+    "teamId": 1,
+    "tradeLocked": false,
+    "fullName": "Chase Headley"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 88,
+    "keeper": true,
+    "lineupSlotId": 13,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 88,
+    "owningTeamIds": [
+      3
+    ],
+    "playerId": 32055,
+    "reservedForKeeper": false,
+    "roundId": 9,
+    "roundPickNumber": 8,
+    "teamId": 3,
+    "tradeLocked": false,
+    "fullName": "Yu Darvish"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 89,
+    "keeper": false,
+    "lineupSlotId": 5,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 89,
+    "owningTeamIds": [
+      10
+    ],
+    "playerId": 5409,
+    "reservedForKeeper": false,
+    "roundId": 9,
+    "roundPickNumber": 9,
+    "teamId": 10,
+    "tradeLocked": false,
+    "fullName": "Shane Victorino"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 90,
+    "keeper": false,
+    "lineupSlotId": 15,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 90,
+    "owningTeamIds": [
+      6
+    ],
+    "playerId": 4044,
+    "reservedForKeeper": false,
+    "roundId": 9,
+    "roundPickNumber": 10,
+    "teamId": 6,
+    "tradeLocked": false,
+    "fullName": "Joe Nathan"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 91,
+    "keeper": false,
+    "lineupSlotId": 5,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 91,
+    "owningTeamIds": [
+      6
+    ],
+    "playerId": 4652,
+    "reservedForKeeper": false,
+    "roundId": 10,
+    "roundPickNumber": 1,
+    "teamId": 6,
+    "tradeLocked": false,
+    "fullName": "Josh Hamilton"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 92,
+    "keeper": false,
+    "lineupSlotId": 1,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 92,
+    "owningTeamIds": [
+      10
+    ],
+    "playerId": 28844,
+    "reservedForKeeper": false,
+    "roundId": 10,
+    "roundPickNumber": 2,
+    "teamId": 10,
+    "tradeLocked": false,
+    "fullName": "Brandon Moss"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 93,
+    "keeper": false,
+    "lineupSlotId": 0,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 93,
+    "owningTeamIds": [
+      3
+    ],
+    "playerId": 6309,
+    "reservedForKeeper": false,
+    "roundId": 10,
+    "roundPickNumber": 3,
+    "teamId": 3,
+    "tradeLocked": false,
+    "fullName": "Brian McCann"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 94,
+    "keeper": false,
+    "lineupSlotId": 15,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 94,
+    "owningTeamIds": [
+      1
+    ],
+    "playerId": 6482,
+    "reservedForKeeper": false,
+    "roundId": 10,
+    "roundPickNumber": 4,
+    "teamId": 1,
+    "tradeLocked": false,
+    "fullName": "Glen Perkins"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 95,
+    "keeper": true,
+    "lineupSlotId": 7,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 95,
+    "owningTeamIds": [
+      8
+    ],
+    "playerId": 3878,
+    "reservedForKeeper": false,
+    "roundId": 10,
+    "roundPickNumber": 5,
+    "teamId": 8,
+    "tradeLocked": false,
+    "fullName": "Adrian Beltre"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 96,
+    "keeper": false,
+    "lineupSlotId": 13,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 96,
+    "owningTeamIds": [
+      9
+    ],
+    "playerId": 30738,
+    "reservedForKeeper": false,
+    "roundId": 10,
+    "roundPickNumber": 6,
+    "teamId": 9,
+    "tradeLocked": false,
+    "fullName": "Shelby Miller"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 97,
+    "keeper": false,
+    "lineupSlotId": 13,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 97,
+    "owningTeamIds": [
+      7
+    ],
+    "playerId": 32081,
+    "reservedForKeeper": false,
+    "roundId": 10,
+    "roundPickNumber": 7,
+    "teamId": 7,
+    "tradeLocked": false,
+    "fullName": "Gerrit Cole"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 98,
+    "keeper": false,
+    "lineupSlotId": 2,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 98,
+    "owningTeamIds": [
+      2
+    ],
+    "playerId": 5383,
+    "reservedForKeeper": false,
+    "roundId": 10,
+    "roundPickNumber": 8,
+    "teamId": 2,
+    "tradeLocked": false,
+    "fullName": "Chase Utley"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 99,
+    "keeper": false,
+    "lineupSlotId": 14,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 99,
+    "owningTeamIds": [
+      4,
+      5
+    ],
+    "playerId": 31091,
+    "reservedForKeeper": false,
+    "roundId": 10,
+    "roundPickNumber": 9,
+    "teamId": 4,
+    "tradeLocked": false,
+    "fullName": "Julio Teheran"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 100,
+    "keeper": false,
+    "lineupSlotId": 13,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 100,
+    "owningTeamIds": [
+      4
+    ],
+    "playerId": 32640,
+    "reservedForKeeper": false,
+    "roundId": 10,
+    "roundPickNumber": 10,
+    "teamId": 4,
+    "tradeLocked": false,
+    "fullName": "Michael Wacha"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 101,
+    "keeper": false,
+    "lineupSlotId": 13,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 101,
+    "owningTeamIds": [
+      4
+    ],
+    "playerId": 29172,
+    "reservedForKeeper": false,
+    "roundId": 11,
+    "roundPickNumber": 1,
+    "teamId": 4,
+    "tradeLocked": false,
+    "fullName": "David Robertson"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 102,
+    "keeper": false,
+    "lineupSlotId": 4,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 102,
+    "owningTeamIds": [
+      5
+    ],
+    "playerId": 29074,
+    "reservedForKeeper": false,
+    "roundId": 11,
+    "roundPickNumber": 2,
+    "teamId": 5,
+    "tradeLocked": false,
+    "fullName": "Jed Lowrie"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 103,
+    "keeper": false,
+    "lineupSlotId": 5,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 103,
+    "owningTeamIds": [
+      2
+    ],
+    "playerId": 5035,
+    "reservedForKeeper": false,
+    "roundId": 11,
+    "roundPickNumber": 3,
+    "teamId": 2,
+    "tradeLocked": false,
+    "fullName": "Carl Crawford"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 104,
+    "keeper": false,
+    "lineupSlotId": 1,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 104,
+    "owningTeamIds": [
+      7
+    ],
+    "playerId": 30901,
+    "reservedForKeeper": false,
+    "roundId": 11,
+    "roundPickNumber": 4,
+    "teamId": 7,
+    "tradeLocked": false,
+    "fullName": "Brandon Belt"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 105,
+    "keeper": false,
+    "lineupSlotId": 6,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 105,
+    "owningTeamIds": [
+      9
+    ],
+    "playerId": 31728,
+    "reservedForKeeper": false,
+    "roundId": 11,
+    "roundPickNumber": 5,
+    "teamId": 9,
+    "tradeLocked": false,
+    "fullName": "Andrelton Simmons"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 106,
+    "keeper": false,
+    "lineupSlotId": 14,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 106,
+    "owningTeamIds": [
+      8
+    ],
+    "playerId": 6202,
+    "reservedForKeeper": false,
+    "roundId": 11,
+    "roundPickNumber": 6,
+    "teamId": 8,
+    "tradeLocked": false,
+    "fullName": "Matt Cain"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 107,
+    "keeper": false,
+    "lineupSlotId": 15,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 107,
+    "owningTeamIds": [
+      1
+    ],
+    "playerId": 30130,
+    "reservedForKeeper": false,
+    "roundId": 11,
+    "roundPickNumber": 7,
+    "teamId": 1,
+    "tradeLocked": false,
+    "fullName": "Koji Uehara"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 108,
+    "keeper": true,
+    "lineupSlotId": 5,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 108,
+    "owningTeamIds": [
+      3
+    ],
+    "playerId": 30583,
+    "reservedForKeeper": false,
+    "roundId": 11,
+    "roundPickNumber": 8,
+    "teamId": 3,
+    "tradeLocked": false,
+    "fullName": "Giancarlo Stanton"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 109,
+    "keeper": true,
+    "lineupSlotId": 5,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 109,
+    "owningTeamIds": [
+      10
+    ],
+    "playerId": 5890,
+    "reservedForKeeper": false,
+    "roundId": 11,
+    "roundPickNumber": 9,
+    "teamId": 10,
+    "tradeLocked": false,
+    "fullName": "Jose Bautista"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 110,
+    "keeper": true,
+    "lineupSlotId": 14,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 110,
+    "owningTeamIds": [
+      6
+    ],
+    "playerId": 28976,
+    "reservedForKeeper": false,
+    "roundId": 11,
+    "roundPickNumber": 10,
+    "teamId": 6,
+    "tradeLocked": false,
+    "fullName": "Max Scherzer"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 111,
+    "keeper": false,
+    "lineupSlotId": 15,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 111,
+    "owningTeamIds": [
+      6
+    ],
+    "playerId": 29168,
+    "reservedForKeeper": false,
+    "roundId": 12,
+    "roundPickNumber": 1,
+    "teamId": 6,
+    "tradeLocked": false,
+    "fullName": "Sergio Romo"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 112,
+    "keeper": false,
+    "lineupSlotId": 13,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 112,
+    "owningTeamIds": [
+      10
+    ],
+    "playerId": 30209,
+    "reservedForKeeper": false,
+    "roundId": 12,
+    "roundPickNumber": 2,
+    "teamId": 10,
+    "tradeLocked": false,
+    "fullName": "Jordan Zimmermann"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 113,
+    "keeper": true,
+    "lineupSlotId": 7,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 113,
+    "owningTeamIds": [
+      3
+    ],
+    "playerId": 30112,
+    "reservedForKeeper": false,
+    "roundId": 12,
+    "roundPickNumber": 3,
+    "teamId": 3,
+    "tradeLocked": false,
+    "fullName": "Buster Posey"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 114,
+    "keeper": false,
+    "lineupSlotId": 13,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 114,
+    "owningTeamIds": [
+      1
+    ],
+    "playerId": 31493,
+    "reservedForKeeper": false,
+    "roundId": 12,
+    "roundPickNumber": 4,
+    "teamId": 1,
+    "tradeLocked": false,
+    "fullName": "Addison Reed"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 115,
+    "keeper": false,
+    "lineupSlotId": 14,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 115,
+    "owningTeamIds": [
+      8
+    ],
+    "playerId": 31099,
+    "reservedForKeeper": false,
+    "roundId": 12,
+    "roundPickNumber": 5,
+    "teamId": 8,
+    "tradeLocked": false,
+    "fullName": "Matt Moore"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 116,
+    "keeper": false,
+    "lineupSlotId": 2,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 116,
+    "owningTeamIds": [
+      9
+    ],
+    "playerId": 29200,
+    "reservedForKeeper": false,
+    "roundId": 12,
+    "roundPickNumber": 6,
+    "teamId": 9,
+    "tradeLocked": false,
+    "fullName": "Daniel Murphy"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 117,
+    "keeper": false,
+    "lineupSlotId": 0,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 117,
+    "owningTeamIds": [
+      7
+    ],
+    "playerId": 30173,
+    "reservedForKeeper": false,
+    "roundId": 12,
+    "roundPickNumber": 7,
+    "teamId": 7,
+    "tradeLocked": false,
+    "fullName": "Wilson Ramos"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 118,
+    "keeper": true,
+    "lineupSlotId": 12,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": -1,
+    "overallPickNumber": 118,
+    "owningTeamIds": [
+      2
+    ],
+    "playerId": 3748,
+    "reservedForKeeper": false,
+    "roundId": 12,
+    "roundPickNumber": 8,
+    "teamId": 2,
+    "tradeLocked": false,
+    "fullName": "David Ortiz"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 119,
+    "keeper": false,
+    "lineupSlotId": 13,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": -1,
+    "overallPickNumber": 119,
+    "owningTeamIds": [
+      5
+    ],
+    "playerId": 28487,
+    "reservedForKeeper": false,
+    "roundId": 12,
+    "roundPickNumber": 9,
+    "teamId": 5,
+    "tradeLocked": false,
+    "fullName": "Jon Lester"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 120,
+    "keeper": false,
+    "lineupSlotId": 0,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 120,
+    "owningTeamIds": [
+      4
+    ],
+    "playerId": 31127,
+    "reservedForKeeper": false,
+    "roundId": 12,
+    "roundPickNumber": 10,
+    "teamId": 4,
+    "tradeLocked": false,
+    "fullName": "Salvador Perez"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 121,
+    "keeper": false,
+    "lineupSlotId": 13,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 121,
+    "owningTeamIds": [
+      4
+    ],
+    "playerId": 28531,
+    "reservedForKeeper": false,
+    "roundId": 13,
+    "roundPickNumber": 1,
+    "teamId": 4,
+    "tradeLocked": false,
+    "fullName": "Jim Johnson"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 122,
+    "keeper": true,
+    "lineupSlotId": 6,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": -1,
+    "overallPickNumber": 122,
+    "owningTeamIds": [
+      5
+    ],
+    "playerId": 6513,
+    "reservedForKeeper": false,
+    "roundId": 13,
+    "roundPickNumber": 2,
+    "teamId": 5,
+    "tradeLocked": false,
+    "fullName": "Martin Prado"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 123,
+    "keeper": false,
+    "lineupSlotId": 12,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": -1,
+    "overallPickNumber": 123,
+    "owningTeamIds": [
+      2
+    ],
+    "playerId": 3723,
+    "reservedForKeeper": false,
+    "roundId": 13,
+    "roundPickNumber": 3,
+    "teamId": 2,
+    "tradeLocked": false,
+    "fullName": "Torii Hunter"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 124,
+    "keeper": false,
+    "lineupSlotId": 15,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": -1,
+    "overallPickNumber": 124,
+    "owningTeamIds": [
+      7
+    ],
+    "playerId": 6373,
+    "reservedForKeeper": false,
+    "roundId": 13,
+    "roundPickNumber": 4,
+    "teamId": 7,
+    "tradeLocked": false,
+    "fullName": "Jonathan Papelbon"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 125,
+    "keeper": false,
+    "lineupSlotId": 15,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": -1,
+    "overallPickNumber": 125,
+    "owningTeamIds": [
+      9
+    ],
+    "playerId": 4811,
+    "reservedForKeeper": false,
+    "roundId": 13,
+    "roundPickNumber": 5,
+    "teamId": 9,
+    "tradeLocked": false,
+    "fullName": "Grant Balfour"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 126,
+    "keeper": true,
+    "lineupSlotId": 12,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": -1,
+    "overallPickNumber": 126,
+    "owningTeamIds": [
+      8
+    ],
+    "playerId": 32080,
+    "reservedForKeeper": false,
+    "roundId": 13,
+    "roundPickNumber": 6,
+    "teamId": 8,
+    "tradeLocked": false,
+    "fullName": "Yoenis Cespedes"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 127,
+    "keeper": true,
+    "lineupSlotId": 7,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": -1,
+    "overallPickNumber": 127,
+    "owningTeamIds": [
+      1
+    ],
+    "playerId": 30993,
+    "reservedForKeeper": false,
+    "roundId": 13,
+    "roundPickNumber": 7,
+    "teamId": 1,
+    "tradeLocked": false,
+    "fullName": "Eric Hosmer"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 128,
+    "keeper": false,
+    "lineupSlotId": 12,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 128,
+    "owningTeamIds": [
+      3
+    ],
+    "playerId": 5007,
+    "reservedForKeeper": false,
+    "roundId": 13,
+    "roundPickNumber": 8,
+    "teamId": 3,
+    "tradeLocked": false,
+    "fullName": "Victor Martinez"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 129,
+    "keeper": true,
+    "lineupSlotId": 13,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 129,
+    "owningTeamIds": [
+      10
+    ],
+    "playerId": 28474,
+    "reservedForKeeper": false,
+    "roundId": 13,
+    "roundPickNumber": 9,
+    "teamId": 10,
+    "tradeLocked": false,
+    "fullName": "James Shields"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 130,
+    "keeper": false,
+    "lineupSlotId": 0,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 130,
+    "owningTeamIds": [
+      6
+    ],
+    "playerId": 29287,
+    "reservedForKeeper": false,
+    "roundId": 13,
+    "roundPickNumber": 10,
+    "teamId": 6,
+    "tradeLocked": false,
+    "fullName": "Matt Wieters"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 131,
+    "keeper": true,
+    "lineupSlotId": 14,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 131,
+    "owningTeamIds": [
+      6
+    ],
+    "playerId": 28668,
+    "reservedForKeeper": false,
+    "roundId": 14,
+    "roundPickNumber": 1,
+    "teamId": 6,
+    "tradeLocked": false,
+    "fullName": "Homer Bailey"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 132,
+    "keeper": false,
+    "lineupSlotId": 15,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 132,
+    "owningTeamIds": [
+      10
+    ],
+    "playerId": 30442,
+    "reservedForKeeper": false,
+    "roundId": 14,
+    "roundPickNumber": 2,
+    "teamId": 10,
+    "tradeLocked": false,
+    "fullName": "Aroldis Chapman"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 133,
+    "keeper": true,
+    "lineupSlotId": 12,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 133,
+    "owningTeamIds": [
+      3
+    ],
+    "playerId": 5904,
+    "reservedForKeeper": false,
+    "roundId": 14,
+    "roundPickNumber": 3,
+    "teamId": 3,
+    "tradeLocked": false,
+    "fullName": "Edwin Encarnacion"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 134,
+    "keeper": false,
+    "lineupSlotId": 5,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 134,
+    "owningTeamIds": [
+      1
+    ],
+    "playerId": 6242,
+    "reservedForKeeper": false,
+    "roundId": 14,
+    "roundPickNumber": 4,
+    "teamId": 1,
+    "tradeLocked": false,
+    "fullName": "Nelson Cruz"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 135,
+    "keeper": true,
+    "lineupSlotId": 12,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 135,
+    "owningTeamIds": [
+      8
+    ],
+    "playerId": 31027,
+    "reservedForKeeper": false,
+    "roundId": 14,
+    "roundPickNumber": 5,
+    "teamId": 8,
+    "tradeLocked": false,
+    "fullName": "Paul Goldschmidt"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 136,
+    "keeper": false,
+    "lineupSlotId": 13,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 136,
+    "owningTeamIds": [
+      9
+    ],
+    "playerId": 6479,
+    "reservedForKeeper": false,
+    "roundId": 14,
+    "roundPickNumber": 6,
+    "teamId": 9,
+    "tradeLocked": false,
+    "fullName": "Jered Weaver"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 137,
+    "keeper": false,
+    "lineupSlotId": 3,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 137,
+    "owningTeamIds": [
+      7
+    ],
+    "playerId": 31232,
+    "reservedForKeeper": false,
+    "roundId": 14,
+    "roundPickNumber": 7,
+    "teamId": 7,
+    "tradeLocked": false,
+    "fullName": "Will Middlebrooks"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 138,
+    "keeper": false,
+    "lineupSlotId": 16,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 138,
+    "owningTeamIds": [
+      2
+    ],
+    "playerId": 29453,
+    "reservedForKeeper": false,
+    "roundId": 14,
+    "roundPickNumber": 8,
+    "teamId": 2,
+    "tradeLocked": false,
+    "fullName": "Austin Jackson"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 139,
+    "keeper": true,
+    "lineupSlotId": 5,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 139,
+    "owningTeamIds": [
+      5
+    ],
+    "playerId": 29322,
+    "reservedForKeeper": false,
+    "roundId": 14,
+    "roundPickNumber": 9,
+    "teamId": 5,
+    "tradeLocked": false,
+    "fullName": "Mark Trumbo"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 140,
+    "keeper": false,
+    "lineupSlotId": 13,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 140,
+    "owningTeamIds": [
+      4
+    ],
+    "playerId": 31086,
+    "reservedForKeeper": false,
+    "roundId": 14,
+    "roundPickNumber": 10,
+    "teamId": 4,
+    "tradeLocked": false,
+    "fullName": "Alex Cobb"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 141,
+    "keeper": false,
+    "lineupSlotId": 5,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 141,
+    "owningTeamIds": [
+      4
+    ],
+    "playerId": 29174,
+    "reservedForKeeper": false,
+    "roundId": 15,
+    "roundPickNumber": 1,
+    "teamId": 4,
+    "tradeLocked": false,
+    "fullName": "Brett Gardner"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 142,
+    "keeper": false,
+    "lineupSlotId": 15,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 142,
+    "owningTeamIds": [
+      5
+    ],
+    "playerId": 4350,
+    "reservedForKeeper": false,
+    "roundId": 15,
+    "roundPickNumber": 2,
+    "teamId": 5,
+    "tradeLocked": false,
+    "fullName": "Jason Grilli"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 143,
+    "keeper": true,
+    "lineupSlotId": 16,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 143,
+    "owningTeamIds": [
+      2
+    ],
+    "playerId": 30951,
+    "reservedForKeeper": false,
+    "roundId": 15,
+    "roundPickNumber": 3,
+    "teamId": 2,
+    "tradeLocked": false,
+    "fullName": "Bryce Harper"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 144,
+    "keeper": false,
+    "lineupSlotId": 13,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 144,
+    "owningTeamIds": [
+      7
+    ],
+    "playerId": 30134,
+    "reservedForKeeper": false,
+    "roundId": 15,
+    "roundPickNumber": 4,
+    "teamId": 7,
+    "tradeLocked": false,
+    "fullName": "Andrew Cashner"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 145,
+    "keeper": false,
+    "lineupSlotId": 5,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 145,
+    "owningTeamIds": [
+      9
+    ],
+    "playerId": 30195,
+    "reservedForKeeper": false,
+    "roundId": 15,
+    "roundPickNumber": 5,
+    "teamId": 9,
+    "tradeLocked": false,
+    "fullName": "Josh Reddick"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 146,
+    "keeper": true,
+    "lineupSlotId": 6,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 146,
+    "owningTeamIds": [
+      8
+    ],
+    "playerId": 29646,
+    "reservedForKeeper": false,
+    "roundId": 15,
+    "roundPickNumber": 6,
+    "teamId": 8,
+    "tradeLocked": false,
+    "fullName": "Ian Desmond"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 147,
+    "keeper": true,
+    "lineupSlotId": 12,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 147,
+    "owningTeamIds": [
+      1
+    ],
+    "playerId": 30399,
+    "reservedForKeeper": false,
+    "roundId": 15,
+    "roundPickNumber": 7,
+    "teamId": 1,
+    "tradeLocked": false,
+    "fullName": "Allen Craig"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 148,
+    "keeper": true,
+    "lineupSlotId": 5,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 148,
+    "owningTeamIds": [
+      3
+    ],
+    "playerId": 30836,
+    "reservedForKeeper": false,
+    "roundId": 15,
+    "roundPickNumber": 8,
+    "teamId": 3,
+    "tradeLocked": false,
+    "fullName": "Mike Trout"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 149,
+    "keeper": false,
+    "lineupSlotId": 2,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 149,
+    "owningTeamIds": [
+      10
+    ],
+    "playerId": 31402,
+    "reservedForKeeper": false,
+    "roundId": 15,
+    "roundPickNumber": 9,
+    "teamId": 10,
+    "tradeLocked": false,
+    "fullName": "Jedd Gyorko"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 150,
+    "keeper": false,
+    "lineupSlotId": 5,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 150,
+    "owningTeamIds": [
+      6
+    ],
+    "playerId": 5299,
+    "reservedForKeeper": false,
+    "roundId": 15,
+    "roundPickNumber": 10,
+    "teamId": 6,
+    "tradeLocked": false,
+    "fullName": "Coco Crisp"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 151,
+    "keeper": false,
+    "lineupSlotId": 12,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 151,
+    "owningTeamIds": [
+      6
+    ],
+    "playerId": 6125,
+    "reservedForKeeper": false,
+    "roundId": 16,
+    "roundPickNumber": 1,
+    "teamId": 6,
+    "tradeLocked": false,
+    "fullName": "Curtis Granderson"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 152,
+    "keeper": false,
+    "lineupSlotId": 12,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 152,
+    "owningTeamIds": [
+      10
+    ],
+    "playerId": 32053,
+    "reservedForKeeper": false,
+    "roundId": 16,
+    "roundPickNumber": 2,
+    "teamId": 10,
+    "tradeLocked": false,
+    "fullName": "Norichika Aoki"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 153,
+    "keeper": false,
+    "lineupSlotId": 5,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 153,
+    "owningTeamIds": [
+      3
+    ],
+    "playerId": 31588,
+    "reservedForKeeper": false,
+    "roundId": 16,
+    "roundPickNumber": 3,
+    "teamId": 3,
+    "tradeLocked": false,
+    "fullName": "Leonys Martin"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 154,
+    "keeper": false,
+    "lineupSlotId": 13,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 154,
+    "owningTeamIds": [
+      1
+    ],
+    "playerId": 30963,
+    "reservedForKeeper": false,
+    "roundId": 16,
+    "roundPickNumber": 4,
+    "teamId": 1,
+    "tradeLocked": false,
+    "fullName": "Steve Cishek"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 155,
+    "keeper": false,
+    "lineupSlotId": 13,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 155,
+    "owningTeamIds": [
+      8
+    ],
+    "playerId": 31267,
+    "reservedForKeeper": false,
+    "roundId": 16,
+    "roundPickNumber": 5,
+    "teamId": 8,
+    "tradeLocked": false,
+    "fullName": "Zack Wheeler"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 156,
+    "keeper": false,
+    "lineupSlotId": 12,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 156,
+    "owningTeamIds": [
+      9
+    ],
+    "playerId": 31009,
+    "reservedForKeeper": false,
+    "roundId": 16,
+    "roundPickNumber": 6,
+    "teamId": 9,
+    "tradeLocked": false,
+    "fullName": "Brian Dozier"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 157,
+    "keeper": false,
+    "lineupSlotId": 6,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 157,
+    "owningTeamIds": [
+      7
+    ],
+    "playerId": 28671,
+    "reservedForKeeper": false,
+    "roundId": 16,
+    "roundPickNumber": 7,
+    "teamId": 7,
+    "tradeLocked": false,
+    "fullName": "Asdrubal Cabrera"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 158,
+    "keeper": false,
+    "lineupSlotId": 6,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 158,
+    "owningTeamIds": [
+      2
+    ],
+    "playerId": 31117,
+    "reservedForKeeper": false,
+    "roundId": 16,
+    "roundPickNumber": 8,
+    "teamId": 2,
+    "tradeLocked": false,
+    "fullName": "Jurickson Profar"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 159,
+    "keeper": false,
+    "lineupSlotId": 15,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 159,
+    "owningTeamIds": [
+      5
+    ],
+    "playerId": 4600,
+    "reservedForKeeper": false,
+    "roundId": 16,
+    "roundPickNumber": 9,
+    "teamId": 5,
+    "tradeLocked": false,
+    "fullName": "Rafael Soriano"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 160,
+    "keeper": true,
+    "lineupSlotId": 5,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 160,
+    "owningTeamIds": [
+      4
+    ],
+    "playerId": 31265,
+    "reservedForKeeper": false,
+    "roundId": 16,
+    "roundPickNumber": 10,
+    "teamId": 4,
+    "tradeLocked": false,
+    "fullName": "Wil Myers"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 161,
+    "keeper": true,
+    "lineupSlotId": 5,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 161,
+    "owningTeamIds": [
+      4
+    ],
+    "playerId": 32574,
+    "reservedForKeeper": false,
+    "roundId": 17,
+    "roundPickNumber": 1,
+    "teamId": 4,
+    "tradeLocked": false,
+    "fullName": "Yasiel Puig"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 162,
+    "keeper": false,
+    "lineupSlotId": 13,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 162,
+    "owningTeamIds": [
+      5
+    ],
+    "playerId": 29984,
+    "reservedForKeeper": false,
+    "roundId": 17,
+    "roundPickNumber": 2,
+    "teamId": 5,
+    "tradeLocked": false,
+    "fullName": "Ernesto Frieri"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 163,
+    "keeper": false,
+    "lineupSlotId": 7,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 163,
+    "owningTeamIds": [
+      2
+    ],
+    "playerId": 31261,
+    "reservedForKeeper": false,
+    "roundId": 17,
+    "roundPickNumber": 3,
+    "teamId": 2,
+    "tradeLocked": false,
+    "fullName": "Nolan Arenado"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 164,
+    "keeper": false,
+    "lineupSlotId": 15,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 164,
+    "owningTeamIds": [
+      7
+    ],
+    "playerId": 6526,
+    "reservedForKeeper": false,
+    "roundId": 17,
+    "roundPickNumber": 4,
+    "teamId": 7,
+    "tradeLocked": false,
+    "fullName": "Casey Janssen"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 165,
+    "keeper": false,
+    "lineupSlotId": 13,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 165,
+    "owningTeamIds": [
+      9
+    ],
+    "playerId": 30370,
+    "reservedForKeeper": false,
+    "roundId": 17,
+    "roundPickNumber": 5,
+    "teamId": 9,
+    "tradeLocked": false,
+    "fullName": "Doug Fister"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 166,
+    "keeper": false,
+    "lineupSlotId": 13,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 166,
+    "owningTeamIds": [
+      8
+    ],
+    "playerId": 32095,
+    "reservedForKeeper": false,
+    "roundId": 17,
+    "roundPickNumber": 6,
+    "teamId": 8,
+    "tradeLocked": false,
+    "fullName": "Danny Salazar"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 167,
+    "keeper": false,
+    "lineupSlotId": 16,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 167,
+    "owningTeamIds": [
+      1
+    ],
+    "playerId": 32068,
+    "reservedForKeeper": false,
+    "roundId": 17,
+    "roundPickNumber": 7,
+    "teamId": 1,
+    "tradeLocked": false,
+    "fullName": "Adam Eaton"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 168,
+    "keeper": false,
+    "lineupSlotId": 13,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 168,
+    "owningTeamIds": [
+      3
+    ],
+    "playerId": 6216,
+    "reservedForKeeper": false,
+    "roundId": 17,
+    "roundPickNumber": 8,
+    "teamId": 3,
+    "tradeLocked": false,
+    "fullName": "Cole Hamels"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 169,
+    "keeper": false,
+    "lineupSlotId": 7,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 169,
+    "owningTeamIds": [
+      10
+    ],
+    "playerId": 28579,
+    "reservedForKeeper": false,
+    "roundId": 17,
+    "roundPickNumber": 9,
+    "teamId": 10,
+    "tradeLocked": false,
+    "fullName": "Adam Lind"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 170,
+    "keeper": false,
+    "lineupSlotId": 13,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 170,
+    "owningTeamIds": [
+      6
+    ],
+    "playerId": 4553,
+    "reservedForKeeper": false,
+    "roundId": 17,
+    "roundPickNumber": 10,
+    "teamId": 6,
+    "tradeLocked": false,
+    "fullName": "CC Sabathia"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 171,
+    "keeper": false,
+    "lineupSlotId": 13,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 171,
+    "owningTeamIds": [
+      6
+    ],
+    "playerId": 28688,
+    "reservedForKeeper": false,
+    "roundId": 18,
+    "roundPickNumber": 1,
+    "teamId": 6,
+    "tradeLocked": false,
+    "fullName": "Joakim Soria"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 172,
+    "keeper": true,
+    "lineupSlotId": 12,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 172,
+    "owningTeamIds": [
+      10
+    ],
+    "playerId": 29563,
+    "reservedForKeeper": false,
+    "roundId": 18,
+    "roundPickNumber": 2,
+    "teamId": 10,
+    "tradeLocked": false,
+    "fullName": "Josh Donaldson"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 173,
+    "keeper": false,
+    "lineupSlotId": 15,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 173,
+    "owningTeamIds": [
+      3
+    ],
+    "playerId": 30378,
+    "reservedForKeeper": false,
+    "roundId": 18,
+    "roundPickNumber": 3,
+    "teamId": 3,
+    "tradeLocked": false,
+    "fullName": "John Axford"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 174,
+    "keeper": false,
+    "lineupSlotId": 14,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 174,
+    "owningTeamIds": [
+      1
+    ],
+    "playerId": 32563,
+    "reservedForKeeper": false,
+    "roundId": 18,
+    "roundPickNumber": 4,
+    "teamId": 1,
+    "tradeLocked": false,
+    "fullName": "Dan Straily"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 175,
+    "keeper": false,
+    "lineupSlotId": 15,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 175,
+    "owningTeamIds": [
+      8
+    ],
+    "playerId": 6175,
+    "reservedForKeeper": false,
+    "roundId": 18,
+    "roundPickNumber": 5,
+    "teamId": 8,
+    "tradeLocked": false,
+    "fullName": "Huston Street"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 176,
+    "keeper": true,
+    "lineupSlotId": 7,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 176,
+    "owningTeamIds": [
+      9
+    ],
+    "playerId": 29170,
+    "reservedForKeeper": false,
+    "roundId": 18,
+    "roundPickNumber": 6,
+    "teamId": 9,
+    "tradeLocked": false,
+    "fullName": "Chris Davis"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 177,
+    "keeper": true,
+    "lineupSlotId": 2,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 177,
+    "owningTeamIds": [
+      7
+    ],
+    "playerId": 31015,
+    "reservedForKeeper": false,
+    "roundId": 18,
+    "roundPickNumber": 7,
+    "teamId": 7,
+    "tradeLocked": false,
+    "fullName": "Matt Carpenter"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 178,
+    "keeper": false,
+    "lineupSlotId": 13,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 178,
+    "owningTeamIds": [
+      2
+    ],
+    "playerId": 6211,
+    "reservedForKeeper": false,
+    "roundId": 18,
+    "roundPickNumber": 8,
+    "teamId": 2,
+    "tradeLocked": false,
+    "fullName": "Francisco Liriano"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 179,
+    "keeper": false,
+    "lineupSlotId": 13,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 179,
+    "owningTeamIds": [
+      5
+    ],
+    "playerId": 6311,
+    "reservedForKeeper": false,
+    "roundId": 18,
+    "roundPickNumber": 9,
+    "teamId": 5,
+    "tradeLocked": false,
+    "fullName": "C.J. Wilson"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 180,
+    "keeper": true,
+    "lineupSlotId": 13,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 180,
+    "owningTeamIds": [
+      4
+    ],
+    "playerId": 32567,
+    "reservedForKeeper": false,
+    "roundId": 18,
+    "roundPickNumber": 10,
+    "teamId": 4,
+    "tradeLocked": false,
+    "fullName": "Jose Fernandez"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 181,
+    "keeper": false,
+    "lineupSlotId": 4,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 181,
+    "owningTeamIds": [
+      4
+    ],
+    "playerId": 28952,
+    "reservedForKeeper": false,
+    "roundId": 19,
+    "roundPickNumber": 1,
+    "teamId": 4,
+    "tradeLocked": false,
+    "fullName": "Alexei Ramirez"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 182,
+    "keeper": false,
+    "lineupSlotId": 5,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 182,
+    "owningTeamIds": [
+      5
+    ],
+    "playerId": 3993,
+    "reservedForKeeper": false,
+    "roundId": 19,
+    "roundPickNumber": 2,
+    "teamId": 5,
+    "tradeLocked": false,
+    "fullName": "Alfonso Soriano"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 183,
+    "keeper": false,
+    "lineupSlotId": 16,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 183,
+    "owningTeamIds": [
+      2
+    ],
+    "playerId": 31973,
+    "reservedForKeeper": false,
+    "roundId": 19,
+    "roundPickNumber": 3,
+    "teamId": 2,
+    "tradeLocked": false,
+    "fullName": "Jonathan Villar"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 184,
+    "keeper": false,
+    "lineupSlotId": 12,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 184,
+    "owningTeamIds": [
+      7
+    ],
+    "playerId": 31207,
+    "reservedForKeeper": false,
+    "roundId": 19,
+    "roundPickNumber": 4,
+    "teamId": 7,
+    "tradeLocked": false,
+    "fullName": "Unknown Player"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 185,
+    "keeper": false,
+    "lineupSlotId": 15,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 185,
+    "owningTeamIds": [
+      9
+    ],
+    "playerId": 29227,
+    "reservedForKeeper": false,
+    "roundId": 19,
+    "roundPickNumber": 5,
+    "teamId": 9,
+    "tradeLocked": false,
+    "fullName": "Bobby Parnell"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 186,
+    "keeper": false,
+    "lineupSlotId": 16,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 186,
+    "owningTeamIds": [
+      8
+    ],
+    "playerId": 32655,
+    "reservedForKeeper": false,
+    "roundId": 19,
+    "roundPickNumber": 6,
+    "teamId": 8,
+    "tradeLocked": false,
+    "fullName": "Byron Buxton"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 187,
+    "keeper": false,
+    "lineupSlotId": 13,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 187,
+    "owningTeamIds": [
+      1
+    ],
+    "playerId": 31816,
+    "reservedForKeeper": false,
+    "roundId": 19,
+    "roundPickNumber": 7,
+    "teamId": 1,
+    "tradeLocked": false,
+    "fullName": "Drew Smyly"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 188,
+    "keeper": false,
+    "lineupSlotId": 13,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 188,
+    "owningTeamIds": [
+      3
+    ],
+    "playerId": 31003,
+    "reservedForKeeper": false,
+    "roundId": 19,
+    "roundPickNumber": 8,
+    "teamId": 3,
+    "tradeLocked": false,
+    "fullName": "Chris Archer"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 189,
+    "keeper": false,
+    "lineupSlotId": 6,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 189,
+    "owningTeamIds": [
+      10
+    ],
+    "playerId": 6524,
+    "reservedForKeeper": false,
+    "roundId": 19,
+    "roundPickNumber": 9,
+    "teamId": 10,
+    "tradeLocked": false,
+    "fullName": "Howie Kendrick"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 190,
+    "keeper": false,
+    "lineupSlotId": 12,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 190,
+    "owningTeamIds": [
+      6
+    ],
+    "playerId": 5970,
+    "reservedForKeeper": false,
+    "roundId": 19,
+    "roundPickNumber": 10,
+    "teamId": 6,
+    "tradeLocked": false,
+    "fullName": "B.J. Upton"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 191,
+    "keeper": false,
+    "lineupSlotId": 13,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 191,
+    "owningTeamIds": [
+      6
+    ],
+    "playerId": 4695,
+    "reservedForKeeper": false,
+    "roundId": 20,
+    "roundPickNumber": 1,
+    "teamId": 6,
+    "tradeLocked": false,
+    "fullName": "R.A. Dickey"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 192,
+    "keeper": false,
+    "lineupSlotId": 15,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 192,
+    "owningTeamIds": [
+      10
+    ],
+    "playerId": 31169,
+    "reservedForKeeper": false,
+    "roundId": 20,
+    "roundPickNumber": 2,
+    "teamId": 10,
+    "tradeLocked": false,
+    "fullName": "Jim Henderson"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 193,
+    "keeper": false,
+    "lineupSlotId": 13,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 193,
+    "owningTeamIds": [
+      3
+    ],
+    "playerId": 29198,
+    "reservedForKeeper": false,
+    "roundId": 20,
+    "roundPickNumber": 3,
+    "teamId": 3,
+    "tradeLocked": false,
+    "fullName": "Tommy Hunter"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 194,
+    "keeper": false,
+    "lineupSlotId": 13,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 194,
+    "owningTeamIds": [
+      1
+    ],
+    "playerId": 31083,
+    "reservedForKeeper": false,
+    "roundId": 20,
+    "roundPickNumber": 4,
+    "teamId": 1,
+    "tradeLocked": false,
+    "fullName": "Rex Brothers"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 195,
+    "keeper": false,
+    "lineupSlotId": 15,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 195,
+    "owningTeamIds": [
+      8
+    ],
+    "playerId": 5111,
+    "reservedForKeeper": false,
+    "roundId": 20,
+    "roundPickNumber": 5,
+    "teamId": 8,
+    "tradeLocked": false,
+    "fullName": "Fernando Rodney"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 196,
+    "keeper": false,
+    "lineupSlotId": 12,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 196,
+    "owningTeamIds": [
+      9
+    ],
+    "playerId": 28973,
+    "reservedForKeeper": false,
+    "roundId": 20,
+    "roundPickNumber": 6,
+    "teamId": 9,
+    "tradeLocked": false,
+    "fullName": "Colby Rasmus"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 197,
+    "keeper": false,
+    "lineupSlotId": 16,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 197,
+    "owningTeamIds": [
+      7
+    ],
+    "playerId": 31283,
+    "reservedForKeeper": false,
+    "roundId": 20,
+    "roundPickNumber": 7,
+    "teamId": 7,
+    "tradeLocked": false,
+    "fullName": "Christian Yelich"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 198,
+    "keeper": false,
+    "lineupSlotId": 13,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 198,
+    "owningTeamIds": [
+      2
+    ],
+    "playerId": 28977,
+    "reservedForKeeper": false,
+    "roundId": 20,
+    "roundPickNumber": 8,
+    "teamId": 2,
+    "tradeLocked": false,
+    "fullName": "Justin Masterson"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 199,
+    "keeper": false,
+    "lineupSlotId": 13,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 199,
+    "owningTeamIds": [
+      5
+    ],
+    "playerId": 28855,
+    "reservedForKeeper": false,
+    "roundId": 20,
+    "roundPickNumber": 9,
+    "teamId": 5,
+    "tradeLocked": false,
+    "fullName": "Clay Buchholz"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 200,
+    "keeper": false,
+    "lineupSlotId": 12,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 200,
+    "owningTeamIds": [
+      4
+    ],
+    "playerId": 31187,
+    "reservedForKeeper": false,
+    "roundId": 20,
+    "roundPickNumber": 10,
+    "teamId": 4,
+    "tradeLocked": false,
+    "fullName": "Nick Castellanos"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 201,
+    "keeper": false,
+    "lineupSlotId": 16,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 201,
+    "owningTeamIds": [
+      4
+    ],
+    "playerId": 29999,
+    "reservedForKeeper": false,
+    "roundId": 21,
+    "roundPickNumber": 1,
+    "teamId": 4,
+    "tradeLocked": false,
+    "fullName": "Mike Moustakas"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 202,
+    "keeper": false,
+    "lineupSlotId": 5,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 202,
+    "owningTeamIds": [
+      5
+    ],
+    "playerId": 28728,
+    "reservedForKeeper": false,
+    "roundId": 21,
+    "roundPickNumber": 2,
+    "teamId": 5,
+    "tradeLocked": false,
+    "fullName": "Alejandro De Aza"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 203,
+    "keeper": false,
+    "lineupSlotId": 13,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 203,
+    "owningTeamIds": [
+      2
+    ],
+    "playerId": 28705,
+    "reservedForKeeper": false,
+    "roundId": 21,
+    "roundPickNumber": 3,
+    "teamId": 2,
+    "tradeLocked": false,
+    "fullName": "Tim Lincecum"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 204,
+    "keeper": false,
+    "lineupSlotId": 13,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 204,
+    "owningTeamIds": [
+      7
+    ],
+    "playerId": 32082,
+    "reservedForKeeper": false,
+    "roundId": 21,
+    "roundPickNumber": 4,
+    "teamId": 7,
+    "tradeLocked": false,
+    "fullName": "Sonny Gray"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 205,
+    "keeper": false,
+    "lineupSlotId": 16,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 205,
+    "owningTeamIds": [
+      9
+    ],
+    "playerId": 32863,
+    "reservedForKeeper": false,
+    "roundId": 21,
+    "roundPickNumber": 5,
+    "teamId": 9,
+    "tradeLocked": false,
+    "fullName": "Evan Gattis"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 206,
+    "keeper": false,
+    "lineupSlotId": 16,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 206,
+    "owningTeamIds": [
+      8
+    ],
+    "playerId": 32098,
+    "reservedForKeeper": false,
+    "roundId": 21,
+    "roundPickNumber": 6,
+    "teamId": 8,
+    "tradeLocked": false,
+    "fullName": "Anthony Rendon"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 207,
+    "keeper": false,
+    "lineupSlotId": 13,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 207,
+    "owningTeamIds": [
+      1
+    ],
+    "playerId": 4588,
+    "reservedForKeeper": false,
+    "roundId": 21,
+    "roundPickNumber": 7,
+    "teamId": 1,
+    "tradeLocked": false,
+    "fullName": "Joaquin Benoit"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 208,
+    "keeper": false,
+    "lineupSlotId": 13,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 208,
+    "owningTeamIds": [
+      3
+    ],
+    "playerId": 30965,
+    "reservedForKeeper": false,
+    "roundId": 21,
+    "roundPickNumber": 8,
+    "teamId": 3,
+    "tradeLocked": false,
+    "fullName": "Hisashi Iwakuma"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 209,
+    "keeper": false,
+    "lineupSlotId": 16,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 209,
+    "owningTeamIds": [
+      10
+    ],
+    "playerId": 5937,
+    "reservedForKeeper": false,
+    "roundId": 21,
+    "roundPickNumber": 9,
+    "teamId": 10,
+    "tradeLocked": false,
+    "fullName": "Nick Swisher"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 210,
+    "keeper": false,
+    "lineupSlotId": 13,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 210,
+    "owningTeamIds": [
+      6
+    ],
+    "playerId": 3176,
+    "reservedForKeeper": false,
+    "roundId": 21,
+    "roundPickNumber": 10,
+    "teamId": 6,
+    "tradeLocked": false,
+    "fullName": "LaTroy Hawkins"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 211,
+    "keeper": false,
+    "lineupSlotId": 16,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 211,
+    "owningTeamIds": [
+      6
+    ],
+    "playerId": 4937,
+    "reservedForKeeper": false,
+    "roundId": 22,
+    "roundPickNumber": 1,
+    "teamId": 6,
+    "tradeLocked": false,
+    "fullName": "Mark Teixeira"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 212,
+    "keeper": false,
+    "lineupSlotId": 13,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 212,
+    "owningTeamIds": [
+      10
+    ],
+    "playerId": 32135,
+    "reservedForKeeper": false,
+    "roundId": 22,
+    "roundPickNumber": 2,
+    "teamId": 10,
+    "tradeLocked": false,
+    "fullName": "Tony Cingrani"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 213,
+    "keeper": false,
+    "lineupSlotId": 16,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 213,
+    "owningTeamIds": [
+      3
+    ],
+    "playerId": 32620,
+    "reservedForKeeper": false,
+    "roundId": 22,
+    "roundPickNumber": 3,
+    "teamId": 3,
+    "tradeLocked": false,
+    "fullName": "Alex Wood"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 214,
+    "keeper": false,
+    "lineupSlotId": 14,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 214,
+    "owningTeamIds": [
+      1
+    ],
+    "playerId": 28650,
+    "reservedForKeeper": false,
+    "roundId": 22,
+    "roundPickNumber": 4,
+    "teamId": 1,
+    "tradeLocked": false,
+    "fullName": "Yovani Gallardo"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 215,
+    "keeper": false,
+    "lineupSlotId": 13,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 215,
+    "owningTeamIds": [
+      8
+    ],
+    "playerId": 28955,
+    "reservedForKeeper": false,
+    "roundId": 22,
+    "roundPickNumber": 5,
+    "teamId": 8,
+    "tradeLocked": false,
+    "fullName": "Johnny Cueto"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 216,
+    "keeper": false,
+    "lineupSlotId": 13,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 216,
+    "owningTeamIds": [
+      9
+    ],
+    "playerId": 30624,
+    "reservedForKeeper": false,
+    "roundId": 22,
+    "roundPickNumber": 6,
+    "teamId": 9,
+    "tradeLocked": false,
+    "fullName": "Mike Minor"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 217,
+    "keeper": false,
+    "lineupSlotId": 7,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 217,
+    "owningTeamIds": [
+      7
+    ],
+    "playerId": 30175,
+    "reservedForKeeper": false,
+    "roundId": 22,
+    "roundPickNumber": 7,
+    "teamId": 7,
+    "tradeLocked": false,
+    "fullName": "Justin Smoak"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 218,
+    "keeper": false,
+    "lineupSlotId": 16,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 218,
+    "owningTeamIds": [
+      2
+    ],
+    "playerId": 5882,
+    "reservedForKeeper": false,
+    "roundId": 22,
+    "roundPickNumber": 8,
+    "teamId": 2,
+    "tradeLocked": false,
+    "fullName": "Grady Sizemore"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 219,
+    "keeper": false,
+    "lineupSlotId": 12,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 219,
+    "owningTeamIds": [
+      5
+    ],
+    "playerId": 5379,
+    "reservedForKeeper": false,
+    "roundId": 22,
+    "roundPickNumber": 9,
+    "teamId": 5,
+    "tradeLocked": false,
+    "fullName": "Justin Morneau"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 220,
+    "keeper": false,
+    "lineupSlotId": 16,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 220,
+    "owningTeamIds": [
+      4
+    ],
+    "playerId": 6497,
+    "reservedForKeeper": false,
+    "roundId": 22,
+    "roundPickNumber": 10,
+    "teamId": 4,
+    "tradeLocked": false,
+    "fullName": "James Loney"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 221,
+    "keeper": false,
+    "lineupSlotId": 6,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 221,
+    "owningTeamIds": [
+      4
+    ],
+    "playerId": 32061,
+    "reservedForKeeper": false,
+    "roundId": 23,
+    "roundPickNumber": 1,
+    "teamId": 4,
+    "tradeLocked": false,
+    "fullName": "Kolten Wong"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 222,
+    "keeper": false,
+    "lineupSlotId": 12,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 222,
+    "owningTeamIds": [
+      5
+    ],
+    "playerId": 28535,
+    "reservedForKeeper": false,
+    "roundId": 23,
+    "roundPickNumber": 2,
+    "teamId": 5,
+    "tradeLocked": false,
+    "fullName": "Michael Bourn"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 223,
+    "keeper": false,
+    "lineupSlotId": 15,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 223,
+    "owningTeamIds": [
+      2
+    ],
+    "playerId": 31136,
+    "reservedForKeeper": false,
+    "roundId": 23,
+    "roundPickNumber": 3,
+    "teamId": 2,
+    "tradeLocked": false,
+    "fullName": "Nate Jones"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 224,
+    "keeper": false,
+    "lineupSlotId": 13,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 224,
+    "owningTeamIds": [
+      7
+    ],
+    "playerId": 28498,
+    "reservedForKeeper": false,
+    "roundId": 23,
+    "roundPickNumber": 4,
+    "teamId": 7,
+    "tradeLocked": false,
+    "fullName": "Jose Veras"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 225,
+    "keeper": false,
+    "lineupSlotId": 13,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 225,
+    "owningTeamIds": [
+      9
+    ],
+    "playerId": 30400,
+    "reservedForKeeper": false,
+    "roundId": 23,
+    "roundPickNumber": 5,
+    "teamId": 9,
+    "tradeLocked": false,
+    "fullName": "Ivan Nova"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 226,
+    "keeper": false,
+    "lineupSlotId": 13,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 226,
+    "owningTeamIds": [
+      8
+    ],
+    "playerId": 32518,
+    "reservedForKeeper": false,
+    "roundId": 23,
+    "roundPickNumber": 6,
+    "teamId": 8,
+    "tradeLocked": false,
+    "fullName": "Archie Bradley"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 227,
+    "keeper": false,
+    "lineupSlotId": 16,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 227,
+    "owningTeamIds": [
+      1
+    ],
+    "playerId": 29542,
+    "reservedForKeeper": false,
+    "roundId": 23,
+    "roundPickNumber": 7,
+    "teamId": 1,
+    "tradeLocked": false,
+    "fullName": "Sergio Santos"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 228,
+    "keeper": false,
+    "lineupSlotId": 6,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 228,
+    "owningTeamIds": [
+      3
+    ],
+    "playerId": 5527,
+    "reservedForKeeper": false,
+    "roundId": 23,
+    "roundPickNumber": 8,
+    "teamId": 3,
+    "tradeLocked": false,
+    "fullName": "Jhonny Peralta"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 229,
+    "keeper": false,
+    "lineupSlotId": 16,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 229,
+    "owningTeamIds": [
+      10
+    ],
+    "playerId": 6024,
+    "reservedForKeeper": false,
+    "roundId": 23,
+    "roundPickNumber": 9,
+    "teamId": 10,
+    "tradeLocked": false,
+    "fullName": "Josh Willingham"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 230,
+    "keeper": false,
+    "lineupSlotId": 13,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 230,
+    "owningTeamIds": [
+      6
+    ],
+    "playerId": 30139,
+    "reservedForKeeper": false,
+    "roundId": 23,
+    "roundPickNumber": 10,
+    "teamId": 6,
+    "tradeLocked": false,
+    "fullName": "Dillon Gee"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 231,
+    "keeper": false,
+    "lineupSlotId": 16,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 231,
+    "owningTeamIds": [
+      6
+    ],
+    "playerId": 32108,
+    "reservedForKeeper": false,
+    "roundId": 24,
+    "roundPickNumber": 1,
+    "teamId": 6,
+    "tradeLocked": false,
+    "fullName": "Yan Gomes"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 232,
+    "keeper": false,
+    "lineupSlotId": 16,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 232,
+    "owningTeamIds": [
+      10
+    ],
+    "playerId": 6478,
+    "reservedForKeeper": false,
+    "roundId": 24,
+    "roundPickNumber": 2,
+    "teamId": 10,
+    "tradeLocked": false,
+    "fullName": "Nick Markakis"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 233,
+    "keeper": false,
+    "lineupSlotId": 16,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 233,
+    "owningTeamIds": [
+      3
+    ],
+    "playerId": 29976,
+    "reservedForKeeper": false,
+    "roundId": 24,
+    "roundPickNumber": 3,
+    "teamId": 3,
+    "tradeLocked": false,
+    "fullName": "Ben Revere"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 234,
+    "keeper": false,
+    "lineupSlotId": 16,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 234,
+    "owningTeamIds": [
+      1
+    ],
+    "playerId": 31221,
+    "reservedForKeeper": false,
+    "roundId": 24,
+    "roundPickNumber": 4,
+    "teamId": 1,
+    "tradeLocked": false,
+    "fullName": "Tyler Skaggs"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 235,
+    "keeper": false,
+    "lineupSlotId": 16,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 235,
+    "owningTeamIds": [
+      8
+    ],
+    "playerId": 31262,
+    "reservedForKeeper": false,
+    "roundId": 24,
+    "roundPickNumber": 5,
+    "teamId": 8,
+    "tradeLocked": false,
+    "fullName": "Oswaldo Arcia"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 236,
+    "keeper": false,
+    "lineupSlotId": 16,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 236,
+    "owningTeamIds": [
+      9
+    ],
+    "playerId": 5019,
+    "reservedForKeeper": false,
+    "roundId": 24,
+    "roundPickNumber": 6,
+    "teamId": 9,
+    "tradeLocked": false,
+    "fullName": "Jake Peavy"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 237,
+    "keeper": false,
+    "lineupSlotId": 16,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 237,
+    "owningTeamIds": [
+      7
+    ],
+    "playerId": 5973,
+    "reservedForKeeper": false,
+    "roundId": 24,
+    "roundPickNumber": 7,
+    "teamId": 7,
+    "tradeLocked": false,
+    "fullName": "Corey Hart"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 238,
+    "keeper": false,
+    "lineupSlotId": 13,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 238,
+    "owningTeamIds": [
+      2
+    ],
+    "playerId": 28694,
+    "reservedForKeeper": false,
+    "roundId": 24,
+    "roundPickNumber": 8,
+    "teamId": 2,
+    "tradeLocked": false,
+    "fullName": "Tyler Clippard"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 239,
+    "keeper": false,
+    "lineupSlotId": 16,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 239,
+    "owningTeamIds": [
+      5
+    ],
+    "playerId": 30043,
+    "reservedForKeeper": false,
+    "roundId": 24,
+    "roundPickNumber": 9,
+    "teamId": 5,
+    "tradeLocked": false,
+    "fullName": "Michael Brantley"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 240,
+    "keeper": false,
+    "lineupSlotId": 16,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 240,
+    "owningTeamIds": [
+      4
+    ],
+    "playerId": 31864,
+    "reservedForKeeper": false,
+    "roundId": 24,
+    "roundPickNumber": 10,
+    "teamId": 4,
+    "tradeLocked": false,
+    "fullName": "Taijuan Walker"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 241,
+    "keeper": false,
+    "lineupSlotId": 16,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 241,
+    "owningTeamIds": [
+      4
+    ],
+    "playerId": 30937,
+    "reservedForKeeper": false,
+    "roundId": 25,
+    "roundPickNumber": 1,
+    "teamId": 4,
+    "tradeLocked": false,
+    "fullName": "Michael Pineda"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 242,
+    "keeper": false,
+    "lineupSlotId": 16,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 242,
+    "owningTeamIds": [
+      5
+    ],
+    "playerId": 28950,
+    "reservedForKeeper": false,
+    "roundId": 25,
+    "roundPickNumber": 2,
+    "teamId": 5,
+    "tradeLocked": false,
+    "fullName": "Hiroki Kuroda"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 243,
+    "keeper": false,
+    "lineupSlotId": 0,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 243,
+    "owningTeamIds": [
+      2
+    ],
+    "playerId": 29950,
+    "reservedForKeeper": false,
+    "roundId": 25,
+    "roundPickNumber": 3,
+    "teamId": 2,
+    "tradeLocked": false,
+    "fullName": "Devin Mesoraco"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 244,
+    "keeper": false,
+    "lineupSlotId": 16,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 244,
+    "owningTeamIds": [
+      7
+    ],
+    "playerId": 28528,
+    "reservedForKeeper": false,
+    "roundId": 25,
+    "roundPickNumber": 4,
+    "teamId": 7,
+    "tradeLocked": false,
+    "fullName": "Matt Garza"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 245,
+    "keeper": false,
+    "lineupSlotId": 16,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 245,
+    "owningTeamIds": [
+      9
+    ],
+    "playerId": 29441,
+    "reservedForKeeper": false,
+    "roundId": 25,
+    "roundPickNumber": 5,
+    "teamId": 9,
+    "tradeLocked": false,
+    "fullName": "Trevor Plouffe"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 246,
+    "keeper": false,
+    "lineupSlotId": 13,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 246,
+    "owningTeamIds": [
+      8
+    ],
+    "playerId": 29966,
+    "reservedForKeeper": false,
+    "roundId": 25,
+    "roundPickNumber": 6,
+    "teamId": 8,
+    "tradeLocked": false,
+    "fullName": "Rick Porcello"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 247,
+    "keeper": false,
+    "lineupSlotId": 16,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 247,
+    "owningTeamIds": [
+      1
+    ],
+    "playerId": 30729,
+    "reservedForKeeper": false,
+    "roundId": 25,
+    "roundPickNumber": 7,
+    "teamId": 1,
+    "tradeLocked": false,
+    "fullName": "Avisail Garcia"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 248,
+    "keeper": false,
+    "lineupSlotId": 16,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 248,
+    "owningTeamIds": [
+      3
+    ],
+    "playerId": 29446,
+    "reservedForKeeper": false,
+    "roundId": 25,
+    "roundPickNumber": 8,
+    "teamId": 3,
+    "tradeLocked": false,
+    "fullName": "Mark Melancon"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 249,
+    "keeper": false,
+    "lineupSlotId": 13,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 249,
+    "owningTeamIds": [
+      10
+    ],
+    "playerId": 3602,
+    "reservedForKeeper": false,
+    "roundId": 25,
+    "roundPickNumber": 9,
+    "teamId": 10,
+    "tradeLocked": false,
+    "fullName": "Bartolo Colon"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 250,
+    "keeper": false,
+    "lineupSlotId": 16,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 250,
+    "owningTeamIds": [
+      6
+    ],
+    "playerId": 6295,
+    "reservedForKeeper": false,
+    "roundId": 25,
+    "roundPickNumber": 10,
+    "teamId": 6,
+    "tradeLocked": false,
+    "fullName": "Kelly Johnson"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 251,
+    "keeper": false,
+    "lineupSlotId": 16,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 251,
+    "owningTeamIds": [
+      6
+    ],
+    "playerId": 30004,
+    "reservedForKeeper": false,
+    "roundId": 26,
+    "roundPickNumber": 1,
+    "teamId": 6,
+    "tradeLocked": false,
+    "fullName": "Todd Frazier"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 252,
+    "keeper": false,
+    "lineupSlotId": 16,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 252,
+    "owningTeamIds": [
+      10
+    ],
+    "playerId": 29759,
+    "reservedForKeeper": false,
+    "roundId": 26,
+    "roundPickNumber": 2,
+    "teamId": 10,
+    "tradeLocked": false,
+    "fullName": "Eric Young Jr."
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 253,
+    "keeper": false,
+    "lineupSlotId": 16,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 253,
+    "owningTeamIds": [
+      3
+    ],
+    "playerId": 31876,
+    "reservedForKeeper": false,
+    "roundId": 26,
+    "roundPickNumber": 3,
+    "teamId": 3,
+    "tradeLocked": false,
+    "fullName": "Yordano Ventura"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 254,
+    "keeper": false,
+    "lineupSlotId": 12,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 254,
+    "owningTeamIds": [
+      1
+    ],
+    "playerId": 30714,
+    "reservedForKeeper": false,
+    "roundId": 26,
+    "roundPickNumber": 4,
+    "teamId": 1,
+    "tradeLocked": false,
+    "fullName": "Scott Van Slyke"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 255,
+    "keeper": false,
+    "lineupSlotId": 16,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 255,
+    "owningTeamIds": [
+      8
+    ],
+    "playerId": 4936,
+    "reservedForKeeper": false,
+    "roundId": 26,
+    "roundPickNumber": 5,
+    "teamId": 8,
+    "tradeLocked": false,
+    "fullName": "Mark Prior"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 256,
+    "keeper": false,
+    "lineupSlotId": 16,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 256,
+    "owningTeamIds": [
+      9
+    ],
+    "playerId": 30372,
+    "reservedForKeeper": false,
+    "roundId": 26,
+    "roundPickNumber": 6,
+    "teamId": 9,
+    "tradeLocked": false,
+    "fullName": "Dustin Ackley"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 257,
+    "keeper": false,
+    "lineupSlotId": 16,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 257,
+    "owningTeamIds": [
+      7
+    ],
+    "playerId": 29590,
+    "reservedForKeeper": false,
+    "roundId": 26,
+    "roundPickNumber": 7,
+    "teamId": 7,
+    "tradeLocked": false,
+    "fullName": "Neil Walker"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 258,
+    "keeper": false,
+    "lineupSlotId": 13,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 258,
+    "owningTeamIds": [
+      2
+    ],
+    "playerId": 5565,
+    "reservedForKeeper": false,
+    "roundId": 26,
+    "roundPickNumber": 8,
+    "teamId": 2,
+    "tradeLocked": false,
+    "fullName": "Dan Haren"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 259,
+    "keeper": false,
+    "lineupSlotId": 16,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 259,
+    "owningTeamIds": [
+      5
+    ],
+    "playerId": 30178,
+    "reservedForKeeper": false,
+    "roundId": 26,
+    "roundPickNumber": 9,
+    "teamId": 5,
+    "tradeLocked": false,
+    "fullName": "Jason Castro"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 260,
+    "keeper": false,
+    "lineupSlotId": 16,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 260,
+    "owningTeamIds": [
+      4
+    ],
+    "playerId": 5033,
+    "reservedForKeeper": false,
+    "roundId": 26,
+    "roundPickNumber": 10,
+    "teamId": 4,
+    "tradeLocked": false,
+    "fullName": "Marlon Byrd"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 261,
+    "keeper": false,
+    "lineupSlotId": 16,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 261,
+    "owningTeamIds": [
+      5,
+      4
+    ],
+    "playerId": 6280,
+    "reservedForKeeper": false,
+    "roundId": 27,
+    "roundPickNumber": 1,
+    "teamId": 5,
+    "tradeLocked": false,
+    "fullName": "Ervin Santana"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 262,
+    "keeper": false,
+    "lineupSlotId": 16,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 262,
+    "owningTeamIds": [
+      5
+    ],
+    "playerId": 4153,
+    "reservedForKeeper": false,
+    "roundId": 27,
+    "roundPickNumber": 2,
+    "teamId": 5,
+    "tradeLocked": false,
+    "fullName": "A.J. Burnett"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 263,
+    "keeper": false,
+    "lineupSlotId": 16,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 263,
+    "owningTeamIds": [
+      2
+    ],
+    "playerId": 29215,
+    "reservedForKeeper": false,
+    "roundId": 27,
+    "roundPickNumber": 3,
+    "teamId": 2,
+    "tradeLocked": false,
+    "fullName": "Marco Estrada"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 264,
+    "keeper": false,
+    "lineupSlotId": 16,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 264,
+    "owningTeamIds": [
+      7
+    ],
+    "playerId": 30452,
+    "reservedForKeeper": false,
+    "roundId": 27,
+    "roundPickNumber": 4,
+    "teamId": 7,
+    "tradeLocked": false,
+    "fullName": "Mitch Moreland"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 265,
+    "keeper": false,
+    "lineupSlotId": 16,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 265,
+    "owningTeamIds": [
+      9
+    ],
+    "playerId": 32188,
+    "reservedForKeeper": false,
+    "roundId": 27,
+    "roundPickNumber": 5,
+    "teamId": 9,
+    "tradeLocked": false,
+    "fullName": "Cody Allen"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 266,
+    "keeper": false,
+    "lineupSlotId": 16,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 266,
+    "owningTeamIds": [
+      8
+    ],
+    "playerId": 28914,
+    "reservedForKeeper": false,
+    "roundId": 27,
+    "roundPickNumber": 6,
+    "teamId": 8,
+    "tradeLocked": false,
+    "fullName": "Armando Galarraga"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 267,
+    "keeper": false,
+    "lineupSlotId": 16,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 267,
+    "owningTeamIds": [
+      1
+    ],
+    "playerId": 28638,
+    "reservedForKeeper": false,
+    "roundId": 27,
+    "roundPickNumber": 7,
+    "teamId": 1,
+    "tradeLocked": false,
+    "fullName": "Phil Hughes"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 268,
+    "keeper": false,
+    "lineupSlotId": 16,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 268,
+    "owningTeamIds": [
+      3
+    ],
+    "playerId": 32127,
+    "reservedForKeeper": false,
+    "roundId": 27,
+    "roundPickNumber": 8,
+    "teamId": 3,
+    "tradeLocked": false,
+    "fullName": "Javier Baez"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 269,
+    "keeper": false,
+    "lineupSlotId": 16,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 269,
+    "owningTeamIds": [
+      10
+    ],
+    "playerId": 4808,
+    "reservedForKeeper": false,
+    "roundId": 27,
+    "roundPickNumber": 9,
+    "teamId": 10,
+    "tradeLocked": false,
+    "fullName": "Adam Dunn"
+  },
+  {
+    "autoDraftTypeId": 0,
+    "bidAmount": 0,
+    "id": 270,
+    "keeper": false,
+    "lineupSlotId": 16,
+    "memberId": "7a262c98-0453-4795-a40f-fb4b1e5b3c28",
+    "nominatingTeamId": 0,
+    "overallPickNumber": 270,
+    "owningTeamIds": [
+      6
+    ],
+    "playerId": 30726,
+    "reservedForKeeper": false,
+    "roundId": 27,
+    "roundPickNumber": 10,
+    "teamId": 6,
+    "tradeLocked": false,
+    "fullName": "Dee Gordon"
+  }
+]
