@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <h1>Fantasy Baseball Tracker</h1>
-      <a href="https://vite.dev" target="_blank">
+      {/* <a href="https://vite.dev" target="_blank">
         <img src={viteLogo} className="logo" alt="Vite logo" />
       </a>
       <a href="https://react.dev" target="_blank">
@@ -22,19 +22,19 @@ function App() {
           GitHub repository
         </a>
         .
-      </p>
+      </p> */}
       <div>
-        <a href="/about">About page</a>
+        <a href="/keepers">Keepers</a>
+        {/* <br />
         <br />
-        <br />
-        <a href="https://rrv7.vercel.app">Test CORS</a>
+        <a href="https://rrv7.vercel.app">Test CORS</a> */}
       </div>
       <br />
-      <div className="card">
+      {/* <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
         </button>
-      </div>
+      </div> */}
     </>
   );
 }
