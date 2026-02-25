@@ -1,0 +1,1024 @@
+{
+  "draftDetail": {
+    "drafted": true,
+    "inProgress": false
+  },
+  "gameId": 2,
+  "id": 30761,
+  "members": [
+    {
+      "displayName": "kevingmvp",
+      "firstName": "matt",
+      "id": "{10CA42A8-64E6-4676-AA3B-3C9104D7CB2F}",
+      "lastName": "groschen"
+    },
+    {
+      "displayName": "MentalFloss144",
+      "firstName": "Thomas",
+      "id": "{1C1984D8-069D-4FBC-8D94-E94AFA380357}",
+      "lastName": "Sigstad"
+    },
+    {
+      "displayName": "Mjr. Johnson",
+      "firstName": "Joe",
+      "id": "{1FC47BB8-EAFF-4693-B247-A175F3291037}",
+      "lastName": "Johnson"
+    },
+    {
+      "displayName": "JoeDude49",
+      "firstName": "Joe",
+      "id": "{20135656-6F94-4144-BFCB-7D5DCAF263EE}",
+      "lastName": "Preimesberger"
+    },
+    {
+      "displayName": "blink20aaf",
+      "firstName": "Sam",
+      "id": "{2C68DA95-EF64-4EDF-8F52-5F22E5AD20A3}",
+      "lastName": "McGinnis"
+    },
+    {
+      "displayName": "critzer08",
+      "firstName": "Chris",
+      "id": "{65280D1F-71AA-454B-A510-A5E3FA178959}",
+      "lastName": "Ritzer"
+    },
+    {
+      "displayName": "hoenit",
+      "firstName": "TYLER",
+      "id": "{757654B0-913F-44C3-9C7B-71894C3C7E4D}",
+      "lastName": "HOENISCH"
+    },
+    {
+      "displayName": "Whirles",
+      "firstName": "Adam",
+      "id": "{E896B5F0-FD15-40A3-A539-DC8597788C27}",
+      "lastName": "Meyer"
+    },
+    {
+      "displayName": "StickItUp1",
+      "firstName": "kyle",
+      "id": "{ED4A0372-B667-4B0C-B062-0638E6088916}",
+      "lastName": "doblar"
+    },
+    {
+      "displayName": "mntwins0527",
+      "firstName": "Andrew",
+      "id": "{FD7A5807-D651-4510-AE3D-7D81B1B73B3C}",
+      "lastName": "Ritzer"
+    }
+  ],
+  "scoringPeriodId": 183,
+  "seasonId": 2009,
+  "segmentId": 0,
+  "status": {
+    "activatedDate": 1739306252360,
+    "createdAsLeagueType": 0,
+    "currentLeagueType": 0,
+    "currentMatchupPeriod": 24,
+    "finalScoringPeriod": 183,
+    "firstScoringPeriod": 1,
+    "isActive": true,
+    "isExpired": false,
+    "isFull": true,
+    "isPlayoffMatchupEdited": false,
+    "isToBeDeleted": false,
+    "isViewable": true,
+    "isWaiverOrderEdited": false,
+    "latestScoringPeriod": 196,
+    "previousSeasons": [
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ],
+    "standingsUpdateDate": 1757235787161,
+    "teamsJoined": 10,
+    "transactionScoringPeriod": 186,
+    "waiverLastExecutionDate": 1739306252360,
+    "waiverProcessStatus": {}
+  },
+  "teams": [
+    {
+      "abbrev": "SoCo",
+      "currentProjectedRank": 0,
+      "divisionId": 0,
+      "draftDayProjectedRank": 0,
+      "id": 1,
+      "isActive": false,
+      "logo": "http://chicago.cubs.mlb.com/images/2006/05/20/h4JAfVgE.jpg",
+      "logoType": "CUSTOM",
+      "name": "The SoCo Bandit",
+      "owners": [
+        "{1C1984D8-069D-4FBC-8D94-E94AFA380357}"
+      ],
+      "playoffSeed": 1,
+      "points": 64.77272727272727,
+      "pointsAdjusted": 0,
+      "pointsDelta": 0,
+      "primaryOwner": "{1C1984D8-069D-4FBC-8D94-E94AFA380357}",
+      "rankCalculatedFinal": 1,
+      "rankFinal": 0,
+      "record": {
+        "away": {
+          "gamesBack": 0,
+          "losses": 32,
+          "percentage": 0.031818181818181815,
+          "pointsAgainst": 0,
+          "pointsFor": 0,
+          "streakLength": 0,
+          "streakType": "NONE",
+          "ties": 7,
+          "wins": 71
+        },
+        "division": {
+          "gamesBack": 0,
+          "losses": 71,
+          "percentage": 0.6477272727272727,
+          "pointsAgainst": 0,
+          "pointsFor": 0,
+          "streakLength": 0,
+          "streakType": "NONE",
+          "ties": 13,
+          "wins": 136
+        },
+        "home": {
+          "gamesBack": 0,
+          "losses": 39,
+          "percentage": 0.02727272727272727,
+          "pointsAgainst": 0,
+          "pointsFor": 0,
+          "streakLength": 0,
+          "streakType": "NONE",
+          "ties": 6,
+          "wins": 65
+        },
+        "overall": {
+          "gamesBack": 0,
+          "losses": 71,
+          "percentage": 0.6477272727272727,
+          "pointsAgainst": 0,
+          "pointsFor": 0,
+          "streakLength": 22,
+          "streakType": "TIE",
+          "ties": 13,
+          "wins": 136
+        }
+      },
+      "transactionCounter": {
+        "acquisitionBudgetSpent": 0,
+        "acquisitions": 132,
+        "drops": 132,
+        "matchupAcquisitionTotals": {},
+        "misc": 0,
+        "moveToActive": 382,
+        "moveToIR": 7,
+        "paid": 0,
+        "teamCharges": 0,
+        "trades": 6
+      },
+      "valuesByStat": {
+        "2": 0.2851293683052063,
+        "5": 242,
+        "20": 974,
+        "21": 905,
+        "23": 186,
+        "41": 1.3077754974365234,
+        "47": 3.8982841968536377,
+        "48": 1694,
+        "53": 138,
+        "57": 131
+      },
+      "waiverRank": 4
+    },
+    {
+      "abbrev": "n00b",
+      "currentProjectedRank": 0,
+      "divisionId": 0,
+      "draftDayProjectedRank": 0,
+      "id": 2,
+      "isActive": false,
+      "name": "The Franchi$e",
+      "owners": [
+        "{2C68DA95-EF64-4EDF-8F52-5F22E5AD20A3}"
+      ],
+      "playoffSeed": 5,
+      "points": 49.54545454545455,
+      "pointsAdjusted": 0,
+      "pointsDelta": 0,
+      "primaryOwner": "{2C68DA95-EF64-4EDF-8F52-5F22E5AD20A3}",
+      "rankCalculatedFinal": 5,
+      "rankFinal": 0,
+      "record": {
+        "away": {
+          "gamesBack": 0,
+          "losses": 62,
+          "percentage": 0.022727272727272728,
+          "pointsAgainst": 0,
+          "pointsFor": 0,
+          "streakLength": 0,
+          "streakType": "NONE",
+          "ties": 5,
+          "wins": 43
+        },
+        "division": {
+          "gamesBack": 0,
+          "losses": 105,
+          "percentage": 0.4954545454545455,
+          "pointsAgainst": 0,
+          "pointsFor": 0,
+          "streakLength": 0,
+          "streakType": "NONE",
+          "ties": 12,
+          "wins": 103
+        },
+        "home": {
+          "gamesBack": 0,
+          "losses": 43,
+          "percentage": 0.031818181818181815,
+          "pointsAgainst": 0,
+          "pointsFor": 0,
+          "streakLength": 0,
+          "streakType": "NONE",
+          "ties": 7,
+          "wins": 60
+        },
+        "overall": {
+          "gamesBack": 0,
+          "losses": 105,
+          "percentage": 0.4954545454545455,
+          "pointsAgainst": 0,
+          "pointsFor": 0,
+          "streakLength": 22,
+          "streakType": "TIE",
+          "ties": 12,
+          "wins": 103
+        }
+      },
+      "transactionCounter": {
+        "acquisitionBudgetSpent": 0,
+        "acquisitions": 113,
+        "drops": 111,
+        "matchupAcquisitionTotals": {},
+        "misc": 0,
+        "moveToActive": 360,
+        "moveToIR": 8,
+        "paid": 0,
+        "teamCharges": 0,
+        "trades": 4
+      },
+      "valuesByStat": {
+        "2": 0.26987317204475403,
+        "5": 219,
+        "20": 923,
+        "21": 880,
+        "23": 136,
+        "41": 1.270309567451477,
+        "47": 3.9324746131896973,
+        "48": 1485,
+        "53": 99,
+        "57": 163
+      },
+      "waiverRank": 1
+    },
+    {
+      "abbrev": "PREI",
+      "currentProjectedRank": 0,
+      "divisionId": 0,
+      "draftDayProjectedRank": 0,
+      "id": 3,
+      "isActive": false,
+      "logo": "http://lawofhollywoodland.files.wordpress.com/2008/07/a-rod-face-full-of-mitt.jpg",
+      "logoType": "CUSTOM",
+      "name": "Team Preimesberger",
+      "owners": [
+        "{20135656-6F94-4144-BFCB-7D5DCAF263EE}"
+      ],
+      "playoffSeed": 2,
+      "points": 59.77272727272728,
+      "pointsAdjusted": 0,
+      "pointsDelta": 0,
+      "primaryOwner": "{20135656-6F94-4144-BFCB-7D5DCAF263EE}",
+      "rankCalculatedFinal": 2,
+      "rankFinal": 0,
+      "record": {
+        "away": {
+          "gamesBack": 0,
+          "losses": 39,
+          "percentage": 0.03333333333333333,
+          "pointsAgainst": 0,
+          "pointsFor": 0,
+          "streakLength": 0,
+          "streakType": "NONE",
+          "ties": 8,
+          "wins": 73
+        },
+        "division": {
+          "gamesBack": 0,
+          "losses": 82,
+          "percentage": 0.5977272727272728,
+          "pointsAgainst": 0,
+          "pointsFor": 0,
+          "streakLength": 0,
+          "streakType": "NONE",
+          "ties": 13,
+          "wins": 125
+        },
+        "home": {
+          "gamesBack": 0,
+          "losses": 43,
+          "percentage": 0.025,
+          "pointsAgainst": 0,
+          "pointsFor": 0,
+          "streakLength": 0,
+          "streakType": "NONE",
+          "ties": 5,
+          "wins": 52
+        },
+        "overall": {
+          "gamesBack": 0,
+          "losses": 82,
+          "percentage": 0.5977272727272728,
+          "pointsAgainst": 0,
+          "pointsFor": 0,
+          "streakLength": 22,
+          "streakType": "TIE",
+          "ties": 13,
+          "wins": 125
+        }
+      },
+      "transactionCounter": {
+        "acquisitionBudgetSpent": 0,
+        "acquisitions": 83,
+        "drops": 83,
+        "matchupAcquisitionTotals": {},
+        "misc": 0,
+        "moveToActive": 334,
+        "moveToIR": 7,
+        "paid": 0,
+        "teamCharges": 0,
+        "trades": 3
+      },
+      "valuesByStat": {
+        "2": 0.26770898699760437,
+        "5": 313,
+        "20": 996,
+        "21": 1006,
+        "23": 130,
+        "41": 1.2587562799453735,
+        "47": 3.6427805423736572,
+        "48": 1594,
+        "53": 119,
+        "57": 112
+      },
+      "waiverRank": 5
+    },
+    {
+      "abbrev": "CWR",
+      "currentProjectedRank": 0,
+      "divisionId": 0,
+      "draftDayProjectedRank": 0,
+      "id": 4,
+      "isActive": false,
+      "name": "Team Critzer",
+      "owners": [
+        "{65280D1F-71AA-454B-A510-A5E3FA178959}"
+      ],
+      "playoffSeed": 3,
+      "points": 52.95454545454545,
+      "pointsAdjusted": 0,
+      "pointsDelta": 0,
+      "primaryOwner": "{65280D1F-71AA-454B-A510-A5E3FA178959}",
+      "rankCalculatedFinal": 3,
+      "rankFinal": 0,
+      "record": {
+        "away": {
+          "gamesBack": 0,
+          "losses": 45,
+          "percentage": 0.01818181818181818,
+          "pointsAgainst": 0,
+          "pointsFor": 0,
+          "streakLength": 0,
+          "streakType": "NONE",
+          "ties": 4,
+          "wins": 61
+        },
+        "division": {
+          "gamesBack": 0,
+          "losses": 100,
+          "percentage": 0.5295454545454545,
+          "pointsAgainst": 0,
+          "pointsFor": 0,
+          "streakLength": 0,
+          "streakType": "NONE",
+          "ties": 7,
+          "wins": 113
+        },
+        "home": {
+          "gamesBack": 0,
+          "losses": 55,
+          "percentage": 0.013636363636363636,
+          "pointsAgainst": 0,
+          "pointsFor": 0,
+          "streakLength": 0,
+          "streakType": "NONE",
+          "ties": 3,
+          "wins": 52
+        },
+        "overall": {
+          "gamesBack": 0,
+          "losses": 100,
+          "percentage": 0.5295454545454545,
+          "pointsAgainst": 0,
+          "pointsFor": 0,
+          "streakLength": 22,
+          "streakType": "TIE",
+          "ties": 7,
+          "wins": 113
+        }
+      },
+      "transactionCounter": {
+        "acquisitionBudgetSpent": 0,
+        "acquisitions": 310,
+        "drops": 307,
+        "matchupAcquisitionTotals": {},
+        "misc": 0,
+        "moveToActive": 681,
+        "moveToIR": 20,
+        "paid": 0,
+        "teamCharges": 0,
+        "trades": 11
+      },
+      "valuesByStat": {
+        "2": 0.26279139518737793,
+        "5": 270,
+        "20": 938,
+        "21": 1017,
+        "23": 132,
+        "41": 1.3325566053390503,
+        "47": 3.894725799560547,
+        "48": 1349,
+        "53": 90,
+        "57": 120
+      },
+      "waiverRank": 7
+    },
+    {
+      "abbrev": "8=D~",
+      "currentProjectedRank": 0,
+      "divisionId": 0,
+      "draftDayProjectedRank": 0,
+      "id": 5,
+      "isActive": false,
+      "name": "Team Roid Rage",
+      "owners": [
+        "{FD7A5807-D651-4510-AE3D-7D81B1B73B3C}"
+      ],
+      "playoffSeed": 10,
+      "points": 40.68181818181818,
+      "pointsAdjusted": 0,
+      "pointsDelta": 0,
+      "primaryOwner": "{FD7A5807-D651-4510-AE3D-7D81B1B73B3C}",
+      "rankCalculatedFinal": 7,
+      "rankFinal": 0,
+      "record": {
+        "away": {
+          "gamesBack": 0,
+          "losses": 76,
+          "percentage": 0.025,
+          "pointsAgainst": 0,
+          "pointsFor": 0,
+          "streakLength": 0,
+          "streakType": "NONE",
+          "ties": 6,
+          "wins": 38
+        },
+        "division": {
+          "gamesBack": 0,
+          "losses": 124,
+          "percentage": 0.4068181818181818,
+          "pointsAgainst": 0,
+          "pointsFor": 0,
+          "streakLength": 0,
+          "streakType": "NONE",
+          "ties": 13,
+          "wins": 83
+        },
+        "home": {
+          "gamesBack": 0,
+          "losses": 48,
+          "percentage": 0.035,
+          "pointsAgainst": 0,
+          "pointsFor": 0,
+          "streakLength": 0,
+          "streakType": "NONE",
+          "ties": 7,
+          "wins": 45
+        },
+        "overall": {
+          "gamesBack": 0,
+          "losses": 124,
+          "percentage": 0.4068181818181818,
+          "pointsAgainst": 0,
+          "pointsFor": 0,
+          "streakLength": 22,
+          "streakType": "TIE",
+          "ties": 13,
+          "wins": 83
+        }
+      },
+      "transactionCounter": {
+        "acquisitionBudgetSpent": 0,
+        "acquisitions": 114,
+        "drops": 115,
+        "matchupAcquisitionTotals": {},
+        "misc": 0,
+        "moveToActive": 365,
+        "moveToIR": 10,
+        "paid": 0,
+        "teamCharges": 0,
+        "trades": 4
+      },
+      "valuesByStat": {
+        "2": 0.2688005566596985,
+        "5": 219,
+        "20": 861,
+        "21": 856,
+        "23": 95,
+        "41": 1.3675732612609863,
+        "47": 4.027405738830566,
+        "48": 1279,
+        "53": 89,
+        "57": 90
+      },
+      "waiverRank": 8
+    },
+    {
+      "abbrev": "SEX",
+      "currentProjectedRank": 0,
+      "divisionId": 0,
+      "draftDayProjectedRank": 0,
+      "id": 6,
+      "isActive": false,
+      "name": "Joe Crede + Twins=",
+      "owners": [
+        "{10CA42A8-64E6-4676-AA3B-3C9104D7CB2F}"
+      ],
+      "playoffSeed": 7,
+      "points": 46.13636363636363,
+      "pointsAdjusted": 0,
+      "pointsDelta": 0,
+      "primaryOwner": "{10CA42A8-64E6-4676-AA3B-3C9104D7CB2F}",
+      "rankCalculatedFinal": 10,
+      "rankFinal": 0,
+      "record": {
+        "away": {
+          "gamesBack": 0,
+          "losses": 56,
+          "percentage": 0.02727272727272727,
+          "pointsAgainst": 0,
+          "pointsFor": 0,
+          "streakLength": 0,
+          "streakType": "NONE",
+          "ties": 6,
+          "wins": 48
+        },
+        "division": {
+          "gamesBack": 0,
+          "losses": 111,
+          "percentage": 0.46136363636363636,
+          "pointsAgainst": 0,
+          "pointsFor": 0,
+          "streakLength": 0,
+          "streakType": "NONE",
+          "ties": 15,
+          "wins": 94
+        },
+        "home": {
+          "gamesBack": 0,
+          "losses": 55,
+          "percentage": 0.04090909090909091,
+          "pointsAgainst": 0,
+          "pointsFor": 0,
+          "streakLength": 0,
+          "streakType": "NONE",
+          "ties": 9,
+          "wins": 46
+        },
+        "overall": {
+          "gamesBack": 0,
+          "losses": 111,
+          "percentage": 0.46136363636363636,
+          "pointsAgainst": 0,
+          "pointsFor": 0,
+          "streakLength": 22,
+          "streakType": "TIE",
+          "ties": 15,
+          "wins": 94
+        }
+      },
+      "transactionCounter": {
+        "acquisitionBudgetSpent": 0,
+        "acquisitions": 37,
+        "drops": 36,
+        "matchupAcquisitionTotals": {},
+        "misc": 0,
+        "moveToActive": 87,
+        "moveToIR": 3,
+        "paid": 0,
+        "teamCharges": 0,
+        "trades": 1
+      },
+      "valuesByStat": {
+        "2": 0.2694988250732422,
+        "5": 255,
+        "20": 891,
+        "21": 897,
+        "23": 119,
+        "41": 1.2712655067443848,
+        "47": 3.80212664604187,
+        "48": 1166,
+        "53": 86,
+        "57": 100
+      },
+      "waiverRank": 6
+    },
+    {
+      "abbrev": "MITC",
+      "currentProjectedRank": 0,
+      "divisionId": 0,
+      "draftDayProjectedRank": 0,
+      "id": 7,
+      "isActive": false,
+      "name": "Team Mitchell",
+      "owners": [
+        "{E896B5F0-FD15-40A3-A539-DC8597788C27}"
+      ],
+      "playoffSeed": 9,
+      "points": 42.5,
+      "pointsAdjusted": 0,
+      "pointsDelta": 0,
+      "primaryOwner": "{E896B5F0-FD15-40A3-A539-DC8597788C27}",
+      "rankCalculatedFinal": 9,
+      "rankFinal": 0,
+      "record": {
+        "away": {
+          "gamesBack": 0,
+          "losses": 52,
+          "percentage": 0.04,
+          "pointsAgainst": 0,
+          "pointsFor": 0,
+          "streakLength": 0,
+          "streakType": "NONE",
+          "ties": 8,
+          "wins": 40
+        },
+        "division": {
+          "gamesBack": 0,
+          "losses": 118,
+          "percentage": 0.425,
+          "pointsAgainst": 0,
+          "pointsFor": 0,
+          "streakLength": 0,
+          "streakType": "NONE",
+          "ties": 17,
+          "wins": 85
+        },
+        "home": {
+          "gamesBack": 0,
+          "losses": 66,
+          "percentage": 0.0375,
+          "pointsAgainst": 0,
+          "pointsFor": 0,
+          "streakLength": 0,
+          "streakType": "NONE",
+          "ties": 9,
+          "wins": 45
+        },
+        "overall": {
+          "gamesBack": 0,
+          "losses": 118,
+          "percentage": 0.425,
+          "pointsAgainst": 0,
+          "pointsFor": 0,
+          "streakLength": 22,
+          "streakType": "TIE",
+          "ties": 17,
+          "wins": 85
+        }
+      },
+      "transactionCounter": {
+        "acquisitionBudgetSpent": 0,
+        "acquisitions": 43,
+        "drops": 41,
+        "matchupAcquisitionTotals": {},
+        "misc": 0,
+        "moveToActive": 82,
+        "moveToIR": 8,
+        "paid": 0,
+        "teamCharges": 0,
+        "trades": 4
+      },
+      "valuesByStat": {
+        "2": 0.2871062159538269,
+        "5": 236,
+        "20": 921,
+        "21": 896,
+        "23": 156,
+        "41": 1.334387183189392,
+        "47": 4.077577590942383,
+        "48": 1055,
+        "53": 83,
+        "57": 51
+      },
+      "waiverRank": 2
+    },
+    {
+      "abbrev": "DOBL",
+      "currentProjectedRank": 0,
+      "divisionId": 0,
+      "draftDayProjectedRank": 0,
+      "id": 8,
+      "isActive": false,
+      "logo": "http://www.destinationhollywood.com/movies/topgun/images/topgun_17.jpg",
+      "logoType": "CUSTOM",
+      "name": "The Goose Beatdown",
+      "owners": [
+        "{ED4A0372-B667-4B0C-B062-0638E6088916}"
+      ],
+      "playoffSeed": 8,
+      "points": 43.40909090909091,
+      "pointsAdjusted": 0,
+      "pointsDelta": 0,
+      "primaryOwner": "{ED4A0372-B667-4B0C-B062-0638E6088916}",
+      "rankCalculatedFinal": 6,
+      "rankFinal": 0,
+      "record": {
+        "away": {
+          "gamesBack": 0,
+          "losses": 55,
+          "percentage": 0.03636363636363636,
+          "pointsAgainst": 0,
+          "pointsFor": 0,
+          "streakLength": 0,
+          "streakType": "NONE",
+          "ties": 8,
+          "wins": 47
+        },
+        "division": {
+          "gamesBack": 0,
+          "losses": 117,
+          "percentage": 0.4340909090909091,
+          "pointsAgainst": 0,
+          "pointsFor": 0,
+          "streakLength": 0,
+          "streakType": "NONE",
+          "ties": 15,
+          "wins": 88
+        },
+        "home": {
+          "gamesBack": 0,
+          "losses": 62,
+          "percentage": 0.031818181818181815,
+          "pointsAgainst": 0,
+          "pointsFor": 0,
+          "streakLength": 0,
+          "streakType": "NONE",
+          "ties": 7,
+          "wins": 41
+        },
+        "overall": {
+          "gamesBack": 0,
+          "losses": 117,
+          "percentage": 0.4340909090909091,
+          "pointsAgainst": 0,
+          "pointsFor": 0,
+          "streakLength": 22,
+          "streakType": "TIE",
+          "ties": 15,
+          "wins": 88
+        }
+      },
+      "transactionCounter": {
+        "acquisitionBudgetSpent": 0,
+        "acquisitions": 14,
+        "drops": 15,
+        "matchupAcquisitionTotals": {},
+        "misc": 0,
+        "moveToActive": 58,
+        "moveToIR": 1,
+        "paid": 0,
+        "teamCharges": 0,
+        "trades": 1
+      },
+      "valuesByStat": {
+        "2": 0.29389312863349915,
+        "5": 234,
+        "20": 907,
+        "21": 967,
+        "23": 146,
+        "41": 1.3290516138076782,
+        "47": 4.257720470428467,
+        "48": 1063,
+        "53": 77,
+        "57": 86
+      },
+      "waiverRank": 10
+    },
+    {
+      "abbrev": "JNP",
+      "currentProjectedRank": 0,
+      "divisionId": 0,
+      "draftDayProjectedRank": 0,
+      "id": 9,
+      "isActive": false,
+      "logo": "http://bostondirtdogs.boston.com/Headline_Archives/BDD_RC_film_6.13.07_mb.jpg",
+      "logoType": "CUSTOM",
+      "name": "Jeters Never Prosper",
+      "owners": [
+        "{757654B0-913F-44C3-9C7B-71894C3C7E4D}"
+      ],
+      "playoffSeed": 4,
+      "points": 52.72727272727272,
+      "pointsAdjusted": 0,
+      "pointsDelta": 0,
+      "primaryOwner": "{757654B0-913F-44C3-9C7B-71894C3C7E4D}",
+      "rankCalculatedFinal": 4,
+      "rankFinal": 0,
+      "record": {
+        "away": {
+          "gamesBack": 0,
+          "losses": 45,
+          "percentage": 0.045,
+          "pointsAgainst": 0,
+          "pointsFor": 0,
+          "streakLength": 0,
+          "streakType": "NONE",
+          "ties": 9,
+          "wins": 46
+        },
+        "division": {
+          "gamesBack": 0,
+          "losses": 98,
+          "percentage": 0.5272727272727272,
+          "pointsAgainst": 0,
+          "pointsFor": 0,
+          "streakLength": 0,
+          "streakType": "NONE",
+          "ties": 12,
+          "wins": 110
+        },
+        "home": {
+          "gamesBack": 0,
+          "losses": 53,
+          "percentage": 0.0125,
+          "pointsAgainst": 0,
+          "pointsFor": 0,
+          "streakLength": 0,
+          "streakType": "NONE",
+          "ties": 3,
+          "wins": 64
+        },
+        "overall": {
+          "gamesBack": 0,
+          "losses": 98,
+          "percentage": 0.5272727272727272,
+          "pointsAgainst": 0,
+          "pointsFor": 0,
+          "streakLength": 22,
+          "streakType": "TIE",
+          "ties": 12,
+          "wins": 110
+        }
+      },
+      "transactionCounter": {
+        "acquisitionBudgetSpent": 0,
+        "acquisitions": 5,
+        "drops": 6,
+        "matchupAcquisitionTotals": {},
+        "misc": 0,
+        "moveToActive": 64,
+        "moveToIR": 4,
+        "paid": 0,
+        "teamCharges": 0,
+        "trades": 1
+      },
+      "valuesByStat": {
+        "2": 0.29270341992378235,
+        "5": 229,
+        "20": 912,
+        "21": 854,
+        "23": 156,
+        "41": 1.255401372909546,
+        "47": 3.61678409576416,
+        "48": 1366,
+        "53": 101,
+        "57": 96
+      },
+      "waiverRank": 9
+    },
+    {
+      "abbrev": "JOHN",
+      "currentProjectedRank": 0,
+      "divisionId": 0,
+      "draftDayProjectedRank": 0,
+      "id": 10,
+      "isActive": false,
+      "logo": "http://www.footballwired.com/vids/funny%20photo.JPG",
+      "logoType": "CUSTOM",
+      "name": "Mjr. Johnson",
+      "owners": [
+        "{1FC47BB8-EAFF-4693-B247-A175F3291037}"
+      ],
+      "playoffSeed": 6,
+      "points": 47.5,
+      "pointsAdjusted": 0,
+      "pointsDelta": 0,
+      "primaryOwner": "{1FC47BB8-EAFF-4693-B247-A175F3291037}",
+      "rankCalculatedFinal": 8,
+      "rankFinal": 0,
+      "record": {
+        "away": {
+          "gamesBack": 0,
+          "losses": 58,
+          "percentage": 0.01818181818181818,
+          "pointsAgainst": 0,
+          "pointsFor": 0,
+          "streakLength": 0,
+          "streakType": "NONE",
+          "ties": 4,
+          "wins": 48
+        },
+        "division": {
+          "gamesBack": 0,
+          "losses": 109,
+          "percentage": 0.475,
+          "pointsAgainst": 0,
+          "pointsFor": 0,
+          "streakLength": 0,
+          "streakType": "NONE",
+          "ties": 13,
+          "wins": 98
+        },
+        "home": {
+          "gamesBack": 0,
+          "losses": 51,
+          "percentage": 0.04090909090909091,
+          "pointsAgainst": 0,
+          "pointsFor": 0,
+          "streakLength": 0,
+          "streakType": "NONE",
+          "ties": 9,
+          "wins": 50
+        },
+        "overall": {
+          "gamesBack": 0,
+          "losses": 109,
+          "percentage": 0.475,
+          "pointsAgainst": 0,
+          "pointsFor": 0,
+          "streakLength": 22,
+          "streakType": "TIE",
+          "ties": 13,
+          "wins": 98
+        }
+      },
+      "transactionCounter": {
+        "acquisitionBudgetSpent": 0,
+        "acquisitions": 12,
+        "drops": 11,
+        "matchupAcquisitionTotals": {},
+        "misc": 0,
+        "moveToActive": 56,
+        "moveToIR": 5,
+        "paid": 0,
+        "teamCharges": 0,
+        "trades": 1
+      },
+      "valuesByStat": {
+        "2": 0.282085120677948,
+        "5": 192,
+        "20": 970,
+        "21": 810,
+        "23": 164,
+        "41": 1.2209745645523071,
+        "47": 3.72394061088562,
+        "48": 1302,
+        "53": 94,
+        "57": 72
+      },
+      "waiverRank": 3
+    }
+  ]
+}
